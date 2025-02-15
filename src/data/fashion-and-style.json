@@ -1,0 +1,50 @@
+{
+  "category": "Fashion & Style",
+  "questions": [
+    {
+      "question": "Which fashion item became iconic for women's office wear in the 1980s?",
+      "correctAnswer": "Power suits",
+      "incorrectAnswers": [
+        "Mini skirts",
+        "Bell-bottom jeans",
+        "Halter neck tops"
+      ]
+    },
+    {
+      "question": "What was a popular accessory for both men and women in the 1970s?",
+      "correctAnswer": "Platform shoes",
+      "incorrectAnswers": [
+        "Cuff bracelets",
+        "Bolo ties",
+        "Leg warmers"
+      ]
+    },
+    {
+      "question": "Which hairstyle was a must-have for men in the 1970s?",
+      "correctAnswer": "The afro",
+      "incorrectAnswers": [
+        "The mullet",
+        "The buzz cut",
+        "The pompadour"
+      ]
+    },
+    {
+      "question": "What type of jeans became incredibly popular during the 1980s?",
+      "correctAnswer": "Acid-wash jeans",
+      "incorrectAnswers": [
+        "Flared jeans",
+        "High-waisted jeans",
+        "Cargo jeans"
+      ]
+    },
+    {
+      "question": "Which fashion trend was NOT popular in the 1980s?",
+      "correctAnswer": "Hippie outfits",
+      "incorrectAnswers": [
+        "Neon colors",
+        "Shoulder pads",
+        "Leg warmers"
+      ]
+    }
+  ]
+}

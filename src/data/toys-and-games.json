@@ -1,0 +1,50 @@
+{
+  "category": "Toys & Games",
+  "questions": [
+    {
+      "question": "Which of these was a popular electronic toy introduced in the late 1970s that challenged players to repeat increasingly complex sequences of flashing lights and sounds?",
+      "correctAnswer": "Simon",
+      "incorrectAnswers": [
+        "Bop It",
+        "Speak & Spell",
+        "Lite-Brite"
+      ]
+    },
+    {
+      "question": "What was the name of the toy line introduced in the early 1980s that featured robotic action figures and vehicles which could be combined to form a larger robot?",
+      "correctAnswer": "Transformers",
+      "incorrectAnswers": [
+        "Voltron",
+        "Gobots",
+        "M.A.S.K."
+      ]
+    },
+    {
+      "question": "Which board game, first sold in the late 1970s, involves players buying and selling property in an attempt to bankrupt their opponents?",
+      "correctAnswer": "Monopoly",
+      "incorrectAnswers": [
+        "Life",
+        "Risk",
+        "Pictionary"
+      ]
+    },
+    {
+      "question": "Introduced in the 1980s, which plush toy line included characters with names like Wish Bear, Grumpy Bear, and Cheer Bear, each bearing a unique symbol on its belly?",
+      "correctAnswer": "Care Bears",
+      "incorrectAnswers": [
+        "Cabbage Patch Kids",
+        "My Little Pony",
+        "Popples"
+      ]
+    },
+    {
+      "question": "What was the name of the popular action figures introduced in the early 1980s that came with a mini comic book and featured characters like He-Man and Skeletor?",
+      "correctAnswer": "Masters of the Universe",
+      "incorrectAnswers": [
+        "ThunderCats",
+        "Teenage Mutant Ninja Turtles",
+        "G.I. Joe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "category": "Pop Culture",
+  "questions": [
+    {
+      "question": "Which 1978 film starring John Travolta and Olivia Newton-John became an iconic musical representation of high school life in the 1950s?",
+      "correctAnswer": "Grease",
+      "incorrectAnswers": [
+        "Saturday Night Fever",
+        "Hairspray",
+        "Footloose"
+      ]
+    },
+    {
+      "question": "Which popular 1980s TV show featured a futuristic talking car named KITT?",
+      "correctAnswer": "Knight Rider",
+      "incorrectAnswers": [
+        "The Dukes of Hazzard",
+        "Miami Vice",
+        "Magnum, P.I."
+      ]
+    },
+    {
+      "question": "What was the name of the handheld electronic game, introduced by Nintendo in 1980, that became a huge hit, allowing players to control falling blocks?",
+      "correctAnswer": "Game & Watch",
+      "incorrectAnswers": [
+        "Atari Lynx",
+        "Game Boy",
+        "Sega Game Gear"
+      ]
+    },
+    {
+      "question": "Who was the British Prime Minister throughout most of the 1980s, becoming the longest-serving British prime minister of the 20th century?",
+      "correctAnswer": "Margaret Thatcher",
+      "incorrectAnswers": [
+        "John Major",
+        "Tony Blair",
+        "Winston Churchill"
+      ]
+    },
+    {
+      "question": "What was the name of the first music video played on MTV when it launched on August 1, 1981?",
+      "correctAnswer": "Video Killed the Radio Star",
+      "incorrectAnswers": [
+        "Thriller",
+        "Money for Nothing",
+        "Sledgehammer"
+      ]
+    }
+  ]
+}

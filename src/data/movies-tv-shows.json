@@ -1,0 +1,50 @@
+{
+  "category": "Movies & TV Shows",
+  "questions": [
+    {
+      "question": "In the 1985 film 'Back to the Future', what model of car is used as the time machine?",
+      "correctAnswer": "DeLorean",
+      "incorrectAnswers": [
+        "Ford Mustang",
+        "Chevrolet Camaro",
+        "Porsche 911"
+      ]
+    },
+    {
+      "question": "Which TV show, premiering in 1984, featured a group of women working at an interior design firm in Atlanta, Georgia?",
+      "correctAnswer": "Designing Women",
+      "incorrectAnswers": [
+        "Golden Girls",
+        "Murphy Brown",
+        "The Colbys"
+      ]
+    },
+    {
+      "question": "In the cult classic 'The Princess Bride' from 1987, who says the iconic line, 'Hello, my name is Inigo Montoya. You killed my father. Prepare to die'?",
+      "correctAnswer": "Inigo Montoya",
+      "incorrectAnswers": [
+        "Westley",
+        "Prince Humperdinck",
+        "Vizzini"
+      ]
+    },
+    {
+      "question": "Which 1979 film, directed by Ridley Scott, features the character Ellen Ripley?",
+      "correctAnswer": "Alien",
+      "incorrectAnswers": [
+        "Blade Runner",
+        "The Terminator",
+        "Star Wars: The Empire Strikes Back"
+      ]
+    },
+    {
+      "question": "What is the name of the high school in the 1978 movie 'Grease'?",
+      "correctAnswer": "Rydell High",
+      "incorrectAnswers": [
+        "McKinley High",
+        "Shermer High",
+        "Ridgemont High"
+      ]
+    }
+  ]
+}

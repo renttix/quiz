@@ -1,0 +1,50 @@
+{
+  "category": "Sports",
+  "questions": [
+    {
+      "question": "Which NFL team won their first Super Bowl in the 1970s, led by the 'Steel Curtain' defense?",
+      "correctAnswer": "Pittsburgh Steelers",
+      "incorrectAnswers": [
+        "Dallas Cowboys",
+        "Miami Dolphins",
+        "Oakland Raiders"
+      ]
+    },
+    {
+      "question": "In the 1980 Winter Olympics, the USA men's ice hockey team won the gold medal in an event known as?",
+      "correctAnswer": "Miracle on Ice",
+      "incorrectAnswers": [
+        "Ice Miracle",
+        "Cold War on Ice",
+        "Hockey Surprise"
+      ]
+    },
+    {
+      "question": "Who set the MLB record for most hits in a season in the 1980s?",
+      "correctAnswer": "Pete Rose",
+      "incorrectAnswers": [
+        "Ty Cobb",
+        "Ichiro Suzuki",
+        "Derek Jeter"
+      ]
+    },
+    {
+      "question": "Who won the FIFA World Cup in 1978?",
+      "correctAnswer": "Argentina",
+      "incorrectAnswers": [
+        "Brazil",
+        "Germany",
+        "Italy"
+      ]
+    },
+    {
+      "question": "Which athlete won the gold medal in the decathlon at the 1976 Summer Olympics, becoming an instant international star?",
+      "correctAnswer": "Bruce Jenner",
+      "incorrectAnswers": [
+        "Daley Thompson",
+        "Bill Toomey",
+        "Rafer Johnson"
+      ]
+    }
+  ]
+}

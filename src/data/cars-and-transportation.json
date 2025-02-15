@@ -1,0 +1,50 @@
+{
+  "category": "Cars & Transportation",
+  "questions": [
+    {
+      "question": "Which iconic car was featured as the time machine in the 1985 movie 'Back to the Future'?",
+      "correctAnswer": "DeLorean DMC-12",
+      "incorrectAnswers": [
+        "Chevrolet Camaro",
+        "Ford Mustang",
+        "Porsche 911"
+      ]
+    },
+    {
+      "question": "In 1977, which car model did Volkswagen introduce as the first front-wheel drive economy car?",
+      "correctAnswer": "Volkswagen Golf",
+      "incorrectAnswers": [
+        "Volkswagen Beetle",
+        "Volkswagen Jetta",
+        "Volkswagen Passat"
+      ]
+    },
+    {
+      "question": "What was the original name of the Ford Mustang Mach 1 when it was first introduced in 1969?",
+      "correctAnswer": "Simply Mach 1",
+      "incorrectAnswers": [
+        "Mustang Firebird",
+        "Mustang Cobra",
+        "Mustang Stallion"
+      ]
+    },
+    {
+      "question": "Which Japanese car manufacturer introduced the luxury brand Lexus in 1989?",
+      "correctAnswer": "Toyota",
+      "incorrectAnswers": [
+        "Nissan",
+        "Honda",
+        "Mazda"
+      ]
+    },
+    {
+      "question": "The Pontiac Firebird Trans Am was famously featured in which 1977 movie, becoming an icon of the era?",
+      "correctAnswer": "Smokey and the Bandit",
+      "incorrectAnswers": [
+        "The French Connection",
+        "Bullitt",
+        "American Graffiti"
+      ]
+    }
+  ]
+}

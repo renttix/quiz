@@ -1,0 +1,50 @@
+{
+  "category": "Technology",
+  "questions": [
+    {
+      "question": "What was the name of Sony's first portable music player released in 1979?",
+      "correctAnswer": "Walkman",
+      "incorrectAnswers": [
+        "Soundabout",
+        "Stereo Belt",
+        "Playman"
+      ]
+    },
+    {
+      "question": "Which computer, released in 1982, is often credited with popularizing the home computer market?",
+      "correctAnswer": "Commodore 64",
+      "incorrectAnswers": [
+        "Apple II",
+        "IBM PC",
+        "Atari 800"
+      ]
+    },
+    {
+      "question": "What was the standard data storage for most home computers in the early 1980s?",
+      "correctAnswer": "Cassette tape",
+      "incorrectAnswers": [
+        "Floppy disk",
+        "Hard disk",
+        "CD-ROM"
+      ]
+    },
+    {
+      "question": "In 1980, this innovative arcade game introduced a maze chase gameplay model and became one of the most popular video games of all time. What is it?",
+      "correctAnswer": "Pac-Man",
+      "incorrectAnswers": [
+        "Space Invaders",
+        "Asteroids",
+        "Donkey Kong"
+      ]
+    },
+    {
+      "question": "Which 1980s technology became synonymous with home recording and is often remembered for the slogan 'Don't copy that floppy'?",
+      "correctAnswer": "VHS",
+      "incorrectAnswers": [
+        "Betamax",
+        "LaserDisc",
+        "Vinyl record"
+      ]
+    }
+  ]
+}

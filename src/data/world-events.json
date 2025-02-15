@@ -1,0 +1,50 @@
+{
+  "category": "World Events",
+  "questions": [
+    {
+      "question": "Which event marked the end of the Cold War in the late 1980s?",
+      "correctAnswer": "Fall of the Berlin Wall",
+      "incorrectAnswers": [
+        "Signing of the Helsinki Accords",
+        "End of the Vietnam War",
+        "Dissolution of the Warsaw Pact"
+      ]
+    },
+    {
+      "question": "What was the name of the nuclear power plant that experienced a catastrophic failure in 1986, becoming one of the most significant nuclear disasters in history?",
+      "correctAnswer": "Chernobyl",
+      "incorrectAnswers": [
+        "Three Mile Island",
+        "Fukushima",
+        "Kyshtym"
+      ]
+    },
+    {
+      "question": "In 1979, the United States experienced a major energy crisis partly due to an embargo placed by which oil-producing group?",
+      "correctAnswer": "OPEC",
+      "incorrectAnswers": [
+        "NATO",
+        "The European Union",
+        "The United Nations"
+      ]
+    },
+    {
+      "question": "Which of the following events happened in the field of space exploration in 1981?",
+      "correctAnswer": "First Space Shuttle launch",
+      "incorrectAnswers": [
+        "Apollo 13 mission",
+        "Voyager 1 reaches Saturn",
+        "Founding of SpaceX"
+      ]
+    },
+    {
+      "question": "Who became the first woman Prime Minister of the United Kingdom in 1979?",
+      "correctAnswer": "Margaret Thatcher",
+      "incorrectAnswers": [
+        "Indira Gandhi",
+        "Golda Meir",
+        "Angela Merkel"
+      ]
+    }
+  ]
+}

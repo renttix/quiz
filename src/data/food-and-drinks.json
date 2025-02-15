@@ -1,0 +1,50 @@
+{
+  "category": "Food & Drinks",
+  "questions": [
+    {
+      "question": "What was a popular breakfast cereal in the 1980s known for its colorful marshmallow shapes?",
+      "correctAnswer": "Lucky Charms",
+      "incorrectAnswers": [
+        "Froot Loops",
+        "Corn Pops",
+        "Cap'n Crunch"
+      ]
+    },
+    {
+      "question": "Which soda, introduced in the 1970s, was famous for its marketing as a 'diet' drink without the typical diet flavor?",
+      "correctAnswer": "Tab",
+      "incorrectAnswers": [
+        "Diet Rite",
+        "Fresca",
+        "Diet Pepsi"
+      ]
+    },
+    {
+      "question": "In the 1980s, which fast-food chain introduced the 'Happy Meal' with toys tailored to children?",
+      "correctAnswer": "McDonald's",
+      "incorrectAnswers": [
+        "Burger King",
+        "Wendy's",
+        "KFC"
+      ]
+    },
+    {
+      "question": "Which snack was heavily marketed in the 1970s as a healthier option to potato chips and came in flavors like ranch and nacho cheese?",
+      "correctAnswer": "Doritos",
+      "incorrectAnswers": [
+        "Pringles",
+        "Fritos",
+        "Bugles"
+      ]
+    },
+    {
+      "question": "What candy, introduced in the late 1970s, was known for its slogan 'Taste the Rainbow'?",
+      "correctAnswer": "Skittles",
+      "incorrectAnswers": [
+        "M&Ms",
+        "Starburst",
+        "Jolly Rancher"
+      ]
+    }
+  ]
+}

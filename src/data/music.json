@@ -1,0 +1,50 @@
+{
+  "category": "Music",
+  "questions": [
+    {
+      "question": "Which band released the hit song 'Hotel California' in 1977?",
+      "correctAnswer": "Eagles",
+      "incorrectAnswers": [
+        "Fleetwood Mac",
+        "Led Zeppelin",
+        "The Doors"
+      ]
+    },
+    {
+      "question": "Who was known as the 'Queen of Disco' in the late 1970s?",
+      "correctAnswer": "Donna Summer",
+      "incorrectAnswers": [
+        "Diana Ross",
+        "Cher",
+        "Gloria Gaynor"
+      ]
+    },
+    {
+      "question": "What was the name of Madonna's first UK number one single?",
+      "correctAnswer": "Into the Groove",
+      "incorrectAnswers": [
+        "Like a Virgin",
+        "Material Girl",
+        "Holiday"
+      ]
+    },
+    {
+      "question": "Which Michael Jackson album became the best-selling album of all time?",
+      "correctAnswer": "Thriller",
+      "incorrectAnswers": [
+        "Off the Wall",
+        "Bad",
+        "Dangerous"
+      ]
+    },
+    {
+      "question": "Which 1980s band was famous for the hit song 'Don't You Want Me'?",
+      "correctAnswer": "The Human League",
+      "incorrectAnswers": [
+        "Depeche Mode",
+        "Duran Duran",
+        "Spandau Ballet"
+      ]
+    }
+  ]
+}
