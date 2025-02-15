@@ -1,0 +1,62 @@
+[
+  {
+    "category": "80s Music",
+    "question": "Which band released the hit song 'Sweet Dreams (Are Made of This)' in 1983?",
+    "options": ["Eurythmics", "The Police", "Duran Duran", "Tears for Fears"],
+    "correctAnswer": "Eurythmics"
+  },
+  {
+    "category": "90s Music",
+    "question": "Which Nirvana album featured the song 'Smells Like Teen Spirit'?",
+    "options": ["Nevermind", "In Utero", "Bleach", "MTV Unplugged"],
+    "correctAnswer": "Nevermind"
+  },
+  {
+    "category": "Geography",
+    "question": "Which is the largest country in South America by land area?",
+    "options": ["Brazil", "Argentina", "Peru", "Colombia"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "category": "Sport",
+    "question": "In which year did Manchester United complete their historic treble?",
+    "options": ["1999", "1998", "2000", "2001"],
+    "correctAnswer": "1999"
+  },
+  {
+    "category": "TV & Film",
+    "question": "Who directed the 1975 thriller film 'Jaws'?",
+    "options": ["Steven Spielberg", "Martin Scorsese", "Francis Ford Coppola", "George Lucas"],
+    "correctAnswer": "Steven Spielberg"
+  },
+  {
+    "category": "80s Music",
+    "question": "Who sang 'Like a Virgin' in 1984?",
+    "options": ["Madonna", "Cyndi Lauper", "Whitney Houston", "Pat Benatar"],
+    "correctAnswer": "Madonna"
+  },
+  {
+    "category": "90s Music",
+    "question": "Which Spice Girl was known as Posh Spice?",
+    "options": ["Victoria Beckham", "Mel B", "Emma Bunton", "Geri Halliwell"],
+    "correctAnswer": "Victoria Beckham"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "category": "Sport",
+    "question": "Which country won the FIFA World Cup in 1998?",
+    "options": ["France", "Brazil", "Germany", "Italy"],
+    "correctAnswer": "France"
+  },
+  {
+    "category": "TV & Film",
+    "question": "What was the first feature-length film released by Pixar?",
+    "options": ["Toy Story", "A Bug's Life", "Monsters Inc.", "Finding Nemo"],
+    "correctAnswer": "Toy Story"
+  }
+]
