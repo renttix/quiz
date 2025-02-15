@@ -7,7 +7,7 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "MONGODB_URI",
-    "NEXT_PUBLIC_SOCKET_URL": "NEXT_PUBLIC_SOCKET_URL"
+    "MONGODB_URI": "mongodb+srv://renttixsoftware:UvMXMZTRVSSQhyс9@cluster0.ch27f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "NEXT_PUBLIC_SOCKET_URL": "https://quiz-renttix.vercel.app"
   }
 }
