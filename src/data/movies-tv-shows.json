@@ -2,24 +2,6 @@
   "category": "Movies & TV Shows",
   "questions": [
     {
-      "question": "In the 1985 film 'Back to the Future', what model of car is used as the time machine?",
-      "correctAnswer": "DeLorean",
-      "incorrectAnswers": [
-        "Ford Mustang",
-        "Chevrolet Camaro",
-        "Porsche 911"
-      ]
-    },
-    {
-      "question": "Which TV show, premiering in 1984, featured a group of women working at an interior design firm in Atlanta, Georgia?",
-      "correctAnswer": "Designing Women",
-      "incorrectAnswers": [
-        "Golden Girls",
-        "Murphy Brown",
-        "The Colbys"
-      ]
-    },
-    {
       "question": "In the cult classic 'The Princess Bride' from 1987, who says the iconic line, 'Hello, my name is Inigo Montoya. You killed my father. Prepare to die'?",
       "correctAnswer": "Inigo Montoya",
       "incorrectAnswers": [
@@ -38,7 +20,115 @@
       ]
     },
     {
-      "question": "What is the name of the high school in the 1978 movie 'Grease'?",
+      "question": "Which TV show, premiering in 1984, featured a group of women working at an interior design firm in Atlanta, Georgia?",
+      "correctAnswer": "Designing Women",
+      "incorrectAnswers": [
+        "Golden Girls",
+        "Murphy Brown",
+        "The Colbys"
+      ]
+    },
+    {
+      "question": "Which movie released in 1977 became a cultural phenomenon, spawning a franchise including sequels, prequels, and TV shows?",
+      "correctAnswer": "Star Wars: Episode IV – A New Hope",
+      "incorrectAnswers": [
+        "Close Encounters of the Third Kind",
+        "Saturday Night Fever",
+        "The Spy Who Loved Me"
+      ]
+    },
+    {
+      "question": "What is the name of the fictional TV station in the sitcom 'WKRP in Cincinnati'?",
+      "correctAnswer": "WKRP",
+      "incorrectAnswers": [
+        "WNYX",
+        "WJM",
+        "WENN"
+      ]
+    },
+    {
+      "question": "In 'The Breakfast Club' (1985), which character is known as 'The Brain'?",
+      "correctAnswer": "Brian Johnson",
+      "incorrectAnswers": [
+        "John Bender",
+        "Claire Standish",
+        "Andrew Clark"
+      ]
+    },
+    {
+      "question": "Who directed the 1982 sci-fi film 'Blade Runner'?",
+      "correctAnswer": "Ridley Scott",
+      "incorrectAnswers": [
+        "Steven Spielberg",
+        "George Lucas",
+        "James Cameron"
+      ]
+    },
+    {
+      "question": "In the TV show 'Knight Rider', what was the name of David Hasselhoff's talking car?",
+      "correctAnswer": "KITT",
+      "incorrectAnswers": [
+        "KARR",
+        "HAL",
+        "AUTO"
+      ]
+    },
+    {
+      "question": "Which film featured a group of kids searching for pirate treasure, released in 1985?",
+      "correctAnswer": "The Goonies",
+      "incorrectAnswers": [
+        "Explorers",
+        "Stand By Me",
+        "Time Bandits"
+      ]
+    },
+    {
+      "question": "Who played the lead role in the 1984 film 'The Karate Kid'?",
+      "correctAnswer": "Ralph Macchio",
+      "incorrectAnswers": [
+        "Michael J. Fox",
+        "Emilio Estevez",
+        "Corey Feldman"
+      ]
+    },
+    {
+      "question": "In the 1982 film 'E.T. the Extra-Terrestrial', what is the name of the boy who befriends E.T.?",
+      "correctAnswer": "Elliott",
+      "incorrectAnswers": [
+        "Michael",
+        "David",
+        "Henry"
+      ]
+    },
+    {
+      "question": "Which television show, premiering in 1980, featured a helicopter called 'Airwolf'?",
+      "correctAnswer": "Airwolf",
+      "incorrectAnswers": [
+        "Knight Rider",
+        "The A-Team",
+        "Magnum, P.I."
+      ]
+    },
+    {
+      "question": "Which 1984 movie featured a character named Sarah Connor being targeted by a futuristic robot?",
+      "correctAnswer": "The Terminator",
+      "incorrectAnswers": [
+        "Blade Runner",
+        "RoboCop",
+        "The Running Man"
+      ]
+    },
+    {
+      "question": "In the TV series 'M*A*S*H', what was the nickname of character Benjamin Franklin Pierce?",
+      "correctAnswer": "Hawkeye",
+      "incorrectAnswers": [
+        "Trapper",
+        "Hot Lips",
+        "Radar"
+      ]
+    },
+    {
+      "question": "What was the name of the high school in the 1978 movie 'Grease'?",
       "correctAnswer": "Rydell High",
       "incorrectAnswers": [
         "McKinley High",

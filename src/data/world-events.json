@@ -2,24 +2,6 @@
   "category": "World Events",
   "questions": [
     {
-      "question": "Which event marked the end of the Cold War in the late 1980s?",
-      "correctAnswer": "Fall of the Berlin Wall",
-      "incorrectAnswers": [
-        "Signing of the Helsinki Accords",
-        "End of the Vietnam War",
-        "Dissolution of the Warsaw Pact"
-      ]
-    },
-    {
-      "question": "What was the name of the nuclear power plant that experienced a catastrophic failure in 1986, becoming one of the most significant nuclear disasters in history?",
-      "correctAnswer": "Chernobyl",
-      "incorrectAnswers": [
-        "Three Mile Island",
-        "Fukushima",
-        "Kyshtym"
-      ]
-    },
-    {
       "question": "In 1979, the United States experienced a major energy crisis partly due to an embargo placed by which oil-producing group?",
       "correctAnswer": "OPEC",
       "incorrectAnswers": [
@@ -38,12 +20,120 @@
       ]
     },
     {
-      "question": "Who became the first woman Prime Minister of the United Kingdom in 1979?",
-      "correctAnswer": "Margaret Thatcher",
+      "question": "What was the name of the space shuttle that tragically exploded shortly after takeoff in 1986?",
+      "correctAnswer": "Challenger",
       "incorrectAnswers": [
-        "Indira Gandhi",
-        "Golda Meir",
-        "Angela Merkel"
+        "Discovery",
+        "Atlantis",
+        "Endeavour"
+      ]
+    },
+    {
+      "question": "In 1979, which nuclear power plant in the United States experienced a partial meltdown, becoming the most significant accident in U.S. commercial nuclear power plant history?",
+      "correctAnswer": "Three Mile Island",
+      "incorrectAnswers": [
+        "Fukushima Daiichi",
+        "Chernobyl",
+        "Kyshtym"
+      ]
+    },
+    {
+      "question": "Which country hosted the 1980 Summer Olympics, which was boycotted by 65 countries, including the United States, in response to its invasion of Afghanistan?",
+      "correctAnswer": "Soviet Union",
+      "incorrectAnswers": [
+        "China",
+        "Germany",
+        "Japan"
+      ]
+    },
+    {
+      "question": "Which global health scare, caused by an emerging virus, led to widespread public health campaigns and research initiatives starting in the early 1980s?",
+      "correctAnswer": "AIDS",
+      "incorrectAnswers": [
+        "SARS",
+        "Ebola",
+        "Zika"
+      ]
+    },
+    {
+      "question": "Which of these global events did NOT occur in the 1970s?",
+      "correctAnswer": "The first Gulf War",
+      "incorrectAnswers": [
+        "The Vietnam War ends",
+        "The Iranian Revolution",
+        "The Apollo 13 mission"
+      ]
+    },
+    {
+      "question": "In 1981, which country's president was assassinated, leading to a significant impact on its political landscape?",
+      "correctAnswer": "Egypt",
+      "incorrectAnswers": [
+        "United States",
+        "France",
+        "India"
+      ]
+    },
+    {
+      "question": "Which international treaty, signed in 1987, was aimed at protecting the ozone layer by phasing out the production of numerous substances?",
+      "correctAnswer": "The Montreal Protocol",
+      "incorrectAnswers": [
+        "The Paris Agreement",
+        "The Kyoto Protocol",
+        "The Stockholm Convention"
+      ]
+    },
+    {
+      "question": "In 1971, which country was officially admitted to the United Nations after a prolonged exclusion since 1945?",
+      "correctAnswer": "People's Republic of China",
+      "incorrectAnswers": [
+        "Republic of China (Taiwan)",
+        "Switzerland",
+        "Israel"
+      ]
+    },
+    {
+      "question": "Which worldwide event in the 1980s was characterized by a series of campaigns including 'Live Aid' to raise awareness and funds for famine relief?",
+      "correctAnswer": "The Ethiopian Famine",
+      "incorrectAnswers": [
+        "The Biafran Famine",
+        "The Somali Famine",
+        "The North Korean Famine"
+      ]
+    },
+    {
+      "question": "What significant political change occurred in Iran in 1979?",
+      "correctAnswer": "The Islamic Revolution",
+      "incorrectAnswers": [
+        "The Shah's Coronation",
+        "Democratic Elections",
+        "Military Coup"
+      ]
+    },
+    {
+      "question": "Which peace agreement between Israel and Egypt was signed in 1978?",
+      "correctAnswer": "Camp David Accords",
+      "incorrectAnswers": [
+        "Oslo Accords",
+        "Madrid Protocol",
+        "Geneva Convention"
+      ]
+    },
+    {
+      "question": "What major technological achievement occurred in space exploration in 1976?",
+      "correctAnswer": "Viking 1 lands on Mars",
+      "incorrectAnswers": [
+        "First Space Station",
+        "First GPS Satellite",
+        "Hubble Telescope Launch"
+      ]
+    },
+    {
+      "question": "Which South American country was ruled by military dictatorship throughout most of the 1970s and 1980s?",
+      "correctAnswer": "Argentina",
+      "incorrectAnswers": [
+        "Brazil",
+        "Chile",
+        "Peru"
       ]
     }
   ]

@@ -45,6 +45,96 @@
         "Shoulder pads",
         "Leg warmers"
       ]
+    },
+    {
+      "question": "What iconic jacket style, often associated with Michael Jackson, became immensely popular in the 1980s?",
+      "correctAnswer": "Leather jacket",
+      "incorrectAnswers": [
+        "Denim jacket",
+        "Bomber jacket",
+        "Windbreaker"
+      ]
+    },
+    {
+      "question": "Which hairstyle, featuring voluminous curls and waves, was a defining look for women in the 1980s?",
+      "correctAnswer": "Permed hair",
+      "incorrectAnswers": [
+        "Pixie cut",
+        "Bob cut",
+        "Straight and long"
+      ]
+    },
+    {
+      "question": "In the late 1970s, what accessory became synonymous with disco culture, often worn with leisure suits?",
+      "correctAnswer": "Gold chains",
+      "incorrectAnswers": [
+        "Leather bracelets",
+        "Silk scarves",
+        "Beanie hats"
+      ]
+    },
+    {
+      "question": "What item of clothing was essential for the disco dance floors of the late 1970s?",
+      "correctAnswer": "Polyester leisure suit",
+      "incorrectAnswers": [
+        "Denim overalls",
+        "Cargo shorts",
+        "Wool cardigan"
+      ]
+    },
+    {
+      "question": "Which footwear became synonymous with the punk rock scene of the late 1970s and early 1980s?",
+      "correctAnswer": "Doc Martens boots",
+      "incorrectAnswers": [
+        "Adidas sneakers",
+        "Platform shoes",
+        "Flip-flops"
+      ]
+    },
+    {
+      "question": "In the 1980s, which hairstyle became a symbol of rebellion and was popularized by musicians and their fans?",
+      "correctAnswer": "Mohawk",
+      "incorrectAnswers": [
+        "Mullets",
+        "Beehives",
+        "Shags"
+      ]
+    },
+    {
+      "question": "Which fashion accessory was essential for any teenager in the 1980s, often featuring bright colors and geometric shapes?",
+      "correctAnswer": "Swatch Watches",
+      "incorrectAnswers": [
+        "Leather Wristbands",
+        "Friendship Bracelets",
+        "Bolo Ties"
+      ]
+    },
+    {
+      "question": "What type of makeup was particularly popular in the 1980s, often applied in bright, bold colors?",
+      "correctAnswer": "Eye shadow",
+      "incorrectAnswers": [
+        "Lip gloss",
+        "Mascara",
+        "Blush"
+      ]
+    },
+    {
+      "question": "Which brand of sneakers became hugely popular in the 1980s after being endorsed by Michael Jordan?",
+      "correctAnswer": "Nike Air Jordan",
+      "incorrectAnswers": [
+        "Adidas Superstar",
+        "Reebok Pump",
+        "Converse All Star"
+      ]
+    },
+    {
+      "question": "What type of shirt became a staple of 1980s fashion, often featuring wild patterns and bright colors?",
+      "correctAnswer": "Hawaiian shirts",
+      "incorrectAnswers": [
+        "Oxford shirts",
+        "Polo shirts",
+        "Turtlenecks"
+      ]
     }
   ]
 }

@@ -11,15 +11,6 @@
       ]
     },
     {
-      "question": "Which computer, released in 1982, is often credited with popularizing the home computer market?",
-      "correctAnswer": "Commodore 64",
-      "incorrectAnswers": [
-        "Apple II",
-        "IBM PC",
-        "Atari 800"
-      ]
-    },
-    {
       "question": "What was the standard data storage for most home computers in the early 1980s?",
       "correctAnswer": "Cassette tape",
       "incorrectAnswers": [
@@ -29,21 +20,120 @@
       ]
     },
     {
-      "question": "In 1980, this innovative arcade game introduced a maze chase gameplay model and became one of the most popular video games of all time. What is it?",
-      "correctAnswer": "Pac-Man",
-      "incorrectAnswers": [
-        "Space Invaders",
-        "Asteroids",
-        "Donkey Kong"
-      ]
-    },
-    {
       "question": "Which 1980s technology became synonymous with home recording and is often remembered for the slogan 'Don't copy that floppy'?",
       "correctAnswer": "VHS",
       "incorrectAnswers": [
         "Betamax",
         "LaserDisc",
         "Vinyl record"
+      ]
+    },
+    {
+      "question": "What was the name of the first portable cell phone introduced in 1983?",
+      "correctAnswer": "Motorola DynaTAC 8000X",
+      "incorrectAnswers": [
+        "Nokia Mobira Senator",
+        "Motorola MicroTAC",
+        "IBM Simon"
+      ]
+    },
+    {
+      "question": "In what year was the first CD player sold in Japan?",
+      "correctAnswer": "1982",
+      "incorrectAnswers": [
+        "1978",
+        "1980",
+        "1984"
+      ]
+    },
+    {
+      "question": "Which home video game console, released in 1977, is credited with popularizing the use of microprocessor-based hardware and cartridges containing game code?",
+      "correctAnswer": "Atari 2600",
+      "incorrectAnswers": [
+        "Nintendo Entertainment System",
+        "Intellivision",
+        "ColecoVision"
+      ]
+    },
+    {
+      "question": "In 1984, this company introduced the first commercially successful computer to use a graphical user interface (GUI) and a mouse. What is the name of the company?",
+      "correctAnswer": "Apple Inc.",
+      "incorrectAnswers": [
+        "Microsoft",
+        "IBM",
+        "Compaq"
+      ]
+    },
+    {
+      "question": "What was the first portable computer released in 1981, known for its briefcase size and significant impact on the computer industry?",
+      "correctAnswer": "Osborne 1",
+      "incorrectAnswers": [
+        "Compaq Portable",
+        "IBM 5100",
+        "TRS-80 Model 100"
+      ]
+    },
+    {
+      "question": "Which of the following was a popular programming language developed in the early 1970s, widely used in education and by hobbyists in the 1980s?",
+      "correctAnswer": "BASIC",
+      "incorrectAnswers": [
+        "COBOL",
+        "Fortran",
+        "Pascal"
+      ]
+    },
+    {
+      "question": "Which computer, introduced in 1984, was known for its graphical user interface and mouse?",
+      "correctAnswer": "Apple Macintosh",
+      "incorrectAnswers": [
+        "IBM PC",
+        "Commodore 64",
+        "Atari 1040ST"
+      ]
+    },
+    {
+      "question": "Which of the following was not a feature of the original Sony Walkman released in 1979?",
+      "correctAnswer": "Bluetooth connectivity",
+      "incorrectAnswers": [
+        "Stereo playback",
+        "Portable design",
+        "Cassette player"
+      ]
+    },
+    {
+      "question": "What programming language, still widely used today, was developed in the early 1970s and emphasizes readability and efficiency?",
+      "correctAnswer": "C",
+      "incorrectAnswers": [
+        "Fortran",
+        "COBOL",
+        "Pascal"
+      ]
+    },
+    {
+      "question": "Which computer company introduced the first hard disk drive for personal computers in 1980?",
+      "correctAnswer": "Seagate",
+      "incorrectAnswers": [
+        "IBM",
+        "Apple",
+        "Western Digital"
+      ]
+    },
+    {
+      "question": "What was the first widely successful email program released in the early 1980s?",
+      "correctAnswer": "Eudora",
+      "incorrectAnswers": [
+        "Outlook",
+        "Lotus Notes",
+        "Pine"
+      ]
+    },
+    {
+      "question": "Which company released the first laser printer for the mass market in 1984?",
+      "correctAnswer": "Hewlett-Packard",
+      "incorrectAnswers": [
+        "Xerox",
+        "Canon",
+        "Epson"
       ]
     }
   ]

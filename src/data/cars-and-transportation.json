@@ -2,15 +2,6 @@
   "category": "Cars & Transportation",
   "questions": [
     {
-      "question": "Which iconic car was featured as the time machine in the 1985 movie 'Back to the Future'?",
-      "correctAnswer": "DeLorean DMC-12",
-      "incorrectAnswers": [
-        "Chevrolet Camaro",
-        "Ford Mustang",
-        "Porsche 911"
-      ]
-    },
-    {
       "question": "In 1977, which car model did Volkswagen introduce as the first front-wheel drive economy car?",
       "correctAnswer": "Volkswagen Golf",
       "incorrectAnswers": [
@@ -38,12 +29,111 @@
       ]
     },
     {
-      "question": "The Pontiac Firebird Trans Am was famously featured in which 1977 movie, becoming an icon of the era?",
-      "correctAnswer": "Smokey and the Bandit",
+      "question": "What iconic feature of the 1982 Pontiac Trans Am was made famous by the TV show 'Knight Rider'?",
+      "correctAnswer": "Talking car AI named KITT",
       "incorrectAnswers": [
-        "The French Connection",
-        "Bullitt",
-        "American Graffiti"
+        "Ejector seats",
+        "Invisible paint",
+        "Flux capacitor"
+      ]
+    },
+    {
+      "question": "What unique feature did the 1980s Chevrolet Corvette have that was highly distinctive?",
+      "correctAnswer": "Glass hatchback",
+      "incorrectAnswers": [
+        "Gull-wing doors",
+        "Rotary engine",
+        "Solar powered headlights"
+      ]
+    },
+    {
+      "question": "Which of the following was a common feature in cars from the 1980s?",
+      "correctAnswer": "Turbocharging",
+      "incorrectAnswers": [
+        "Hybrid engines",
+        "Autopilot",
+        "Heads-up display"
+      ]
+    },
+    {
+      "question": "In 1977, which company introduced the first Japanese luxury car, the Cressida, to the U.S. market?",
+      "correctAnswer": "Toyota",
+      "incorrectAnswers": [
+        "Nissan",
+        "Honda",
+        "Mitsubishi"
+      ]
+    },
+    {
+      "question": "What was the name of the compact car introduced by Ford in 1971 that became synonymous with the economy cars of the 1970s?",
+      "correctAnswer": "Ford Pinto",
+      "incorrectAnswers": [
+        "Ford Mustang II",
+        "Ford Falcon",
+        "Ford Fairlane"
+      ]
+    },
+    {
+      "question": "Which of the following vehicles was not introduced in the 1980s?",
+      "correctAnswer": "Chevrolet Vega",
+      "incorrectAnswers": [
+        "Dodge Caravan",
+        "Chevrolet Cavalier",
+        "Ford Escort"
+      ]
+    },
+    {
+      "question": "What was the first Japanese car to be manufactured in the United States, beginning in 1982?",
+      "correctAnswer": "Honda Accord",
+      "incorrectAnswers": [
+        "Toyota Camry",
+        "Nissan Sentra",
+        "Mazda 626"
+      ]
+    },
+    {
+      "question": "Which American car company introduced the K-car platform in 1981, helping save the company from bankruptcy?",
+      "correctAnswer": "Chrysler",
+      "incorrectAnswers": [
+        "Ford",
+        "General Motors",
+        "AMC"
+      ]
+    },
+    {
+      "question": "What revolutionary new type of vehicle did Chrysler introduce in 1984?",
+      "correctAnswer": "Minivan",
+      "incorrectAnswers": [
+        "SUV",
+        "Hybrid car",
+        "Electric car"
+      ]
+    },
+    {
+      "question": "Which sports car was introduced by Pontiac in 1984 as their first mid-engine vehicle?",
+      "correctAnswer": "Pontiac Fiero",
+      "incorrectAnswers": [
+        "Pontiac GTO",
+        "Pontiac Firebird",
+        "Pontiac Grand Prix"
+      ]
+    },
+    {
+      "question": "What was the best-selling car in America throughout most of the 1970s?",
+      "correctAnswer": "Oldsmobile Cutlass",
+      "incorrectAnswers": [
+        "Ford Mustang",
+        "Chevrolet Impala",
+        "Plymouth Valiant"
+      ]
+    },
+    {
+      "question": "Which European luxury car manufacturer introduced the 944 model in 1982?",
+      "correctAnswer": "Porsche",
+      "incorrectAnswers": [
+        "BMW",
+        "Mercedes-Benz",
+        "Audi"
       ]
     }
   ]

@@ -11,15 +11,6 @@
       ]
     },
     {
-      "question": "Which popular 1980s TV show featured a futuristic talking car named KITT?",
-      "correctAnswer": "Knight Rider",
-      "incorrectAnswers": [
-        "The Dukes of Hazzard",
-        "Miami Vice",
-        "Magnum, P.I."
-      ]
-    },
-    {
       "question": "What was the name of the handheld electronic game, introduced by Nintendo in 1980, that became a huge hit, allowing players to control falling blocks?",
       "correctAnswer": "Game & Watch",
       "incorrectAnswers": [
@@ -38,12 +29,111 @@
       ]
     },
     {
-      "question": "What was the name of the first music video played on MTV when it launched on August 1, 1981?",
-      "correctAnswer": "Video Killed the Radio Star",
+      "question": "Which of the following arcade video games was released first?",
+      "correctAnswer": "Pong",
       "incorrectAnswers": [
-        "Thriller",
-        "Money for Nothing",
-        "Sledgehammer"
+        "Pac-Man",
+        "Space Invaders",
+        "Donkey Kong"
+      ]
+    },
+    {
+      "question": "Who sang the 1983 hit song 'Flashdance... What a Feeling'?",
+      "correctAnswer": "Irene Cara",
+      "incorrectAnswers": [
+        "Laura Branigan",
+        "Kim Carnes",
+        "Pat Benatar"
+      ]
+    },
+    {
+      "question": "Which character was the leader of the Autobots in the original 1980s 'Transformers' animated series?",
+      "correctAnswer": "Optimus Prime",
+      "incorrectAnswers": [
+        "Megatron",
+        "Bumblebee",
+        "Starscream"
+      ]
+    },
+    {
+      "question": "What was the name of the music device introduced by Sony in 1979 that revolutionized how people listened to music on the go?",
+      "correctAnswer": "Walkman",
+      "incorrectAnswers": [
+        "Discman",
+        "Boombox",
+        "Record Player"
+      ]
+    },
+    {
+      "question": "What was the name of the dance craze that took the world by storm after being featured in Michael Jackson's music video for 'Thriller'?",
+      "correctAnswer": "The Moonwalk",
+      "incorrectAnswers": [
+        "The Robot",
+        "The Electric Slide",
+        "The Hustle"
+      ]
+    },
+    {
+      "question": "Which movie released in 1977 became a cornerstone of science fiction and spawned a massive franchise that includes movies, TV shows, and merchandise?",
+      "correctAnswer": "Star Wars",
+      "incorrectAnswers": [
+        "Close Encounters of the Third Kind",
+        "Alien",
+        "Blade Runner"
+      ]
+    },
+    {
+      "question": "What arcade game, released in 1980, was a pioneer in the maze chase genre, featuring a character that eats dots while avoiding ghosts?",
+      "correctAnswer": "Pac-Man",
+      "incorrectAnswers": [
+        "Space Invaders",
+        "Asteroids",
+        "Donkey Kong"
+      ]
+    },
+    {
+      "question": "Who sang the hit song 'Like a Virgin', which became a global anthem in the mid-1980s?",
+      "correctAnswer": "Madonna",
+      "incorrectAnswers": [
+        "Cyndi Lauper",
+        "Whitney Houston",
+        "Tina Turner"
+      ]
+    },
+    {
+      "question": "Which toy line, featuring robots that could transform into vehicles, became a huge hit in the 1980s?",
+      "correctAnswer": "Transformers",
+      "incorrectAnswers": [
+        "GoBots",
+        "Voltron",
+        "M.A.S.K."
+      ]
+    },
+    {
+      "question": "What was the first 24-hour cable news network, launched in 1980?",
+      "correctAnswer": "CNN",
+      "incorrectAnswers": [
+        "MTV",
+        "ESPN",
+        "HBO"
+      ]
+    },
+    {
+      "question": "Which 1980s sitcom featured a family who adopted an alien from the planet Melmac?",
+      "correctAnswer": "ALF",
+      "incorrectAnswers": [
+        "Small Wonder",
+        "Perfect Strangers",
+        "Mork & Mindy"
+      ]
+    },
+    {
+      "question": "What was the name of the popular toy line featuring small, colorful bears with symbols on their bellies?",
+      "correctAnswer": "Care Bears",
+      "incorrectAnswers": [
+        "My Little Pony",
+        "Pound Puppies",
+        "Teddy Ruxpin"
       ]
     }
   ]

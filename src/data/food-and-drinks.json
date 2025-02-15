@@ -2,30 +2,12 @@
   "category": "Food & Drinks",
   "questions": [
     {
-      "question": "What was a popular breakfast cereal in the 1980s known for its colorful marshmallow shapes?",
-      "correctAnswer": "Lucky Charms",
-      "incorrectAnswers": [
-        "Froot Loops",
-        "Corn Pops",
-        "Cap'n Crunch"
-      ]
-    },
-    {
       "question": "Which soda, introduced in the 1970s, was famous for its marketing as a 'diet' drink without the typical diet flavor?",
       "correctAnswer": "Tab",
       "incorrectAnswers": [
         "Diet Rite",
         "Fresca",
         "Diet Pepsi"
-      ]
-    },
-    {
-      "question": "In the 1980s, which fast-food chain introduced the 'Happy Meal' with toys tailored to children?",
-      "correctAnswer": "McDonald's",
-      "incorrectAnswers": [
-        "Burger King",
-        "Wendy's",
-        "KFC"
       ]
     },
     {
@@ -44,6 +26,114 @@
         "M&Ms",
         "Starburst",
         "Jolly Rancher"
+      ]
+    },
+    {
+      "question": "Which cereal was introduced in the 1980s and featured a cartoon character as its mascot?",
+      "correctAnswer": "Cinnamon Toast Crunch",
+      "incorrectAnswers": [
+        "Lucky Charms",
+        "Froot Loops",
+        "Trix"
+      ]
+    },
+    {
+      "question": "Which soft drink was famously introduced in 1985 and then quickly discontinued due to public backlash?",
+      "correctAnswer": "New Coke",
+      "incorrectAnswers": [
+        "Crystal Pepsi",
+        "Tab Clear",
+        "Pepsi Blue"
+      ]
+    },
+    {
+      "question": "What was the name of the popular 1970s snack that consisted of a spreadable cheese product with crackers?",
+      "correctAnswer": "Handi-Snacks",
+      "incorrectAnswers": [
+        "Cheez Whiz",
+        "Easy Cheese",
+        "Velveeta"
+      ]
+    },
+    {
+      "question": "Which iconic fast food item was introduced by McDonald's in the 1980s?",
+      "correctAnswer": "Chicken McNuggets",
+      "incorrectAnswers": [
+        "Big Mac",
+        "Filet-O-Fish",
+        "McRib"
+      ]
+    },
+    {
+      "question": "What was the iconic slogan for Coca-Cola starting in 1979?",
+      "correctAnswer": "Have a Coke and a Smile",
+      "incorrectAnswers": [
+        "The Real Thing",
+        "Open Happiness",
+        "Taste the Feeling"
+      ]
+    },
+    {
+      "question": "Which of these breakfast cereals was introduced by General Mills in the 1970s?",
+      "correctAnswer": "Count Chocula",
+      "incorrectAnswers": [
+        "Froot Loops",
+        "Apple Jacks",
+        "Cap'n Crunch"
+      ]
+    },
+    {
+      "question": "In the 1980s, which fast food chain introduced the slogan 'Where's the beef?'",
+      "correctAnswer": "Wendy's",
+      "incorrectAnswers": [
+        "McDonald's",
+        "Burger King",
+        "KFC"
+      ]
+    },
+    {
+      "question": "What was the name of the fruit-flavored snack that featured a smiling face in the 1980s, popular among kids?",
+      "correctAnswer": "Fruit Roll-Ups",
+      "incorrectAnswers": [
+        "Gushers",
+        "Fruit by the Foot",
+        "Fruit Snacks"
+      ]
+    },
+    {
+      "question": "Which beverage was famously advertised with the slogan 'I'd Like to Buy the World a Coke' in the early 1970s?",
+      "correctAnswer": "Coca-Cola",
+      "incorrectAnswers": [
+        "Pepsi",
+        "Dr Pepper",
+        "7 Up"
+      ]
+    },
+    {
+      "question": "What was the name of the snack that was a cheese-flavored popcorn and peanut mix, popular in the 1980s?",
+      "correctAnswer": "Cracker Jack Cheese",
+      "incorrectAnswers": [
+        "Cheez-It Mix",
+        "Cheetos Snack Mix",
+        "Poppycock"
+      ]
+    },
+    {
+      "question": "Which fast-food restaurant introduced the 'Big Mac' in the 1970s?",
+      "correctAnswer": "McDonald's",
+      "incorrectAnswers": [
+        "Burger King",
+        "Wendy's",
+        "Jack in the Box"
+      ]
+    },
+    {
+      "question": "What popular candy bar featured the slogan 'Sometimes you feel like a nut, sometimes you don't' in the 1980s?",
+      "correctAnswer": "Mounds/Almond Joy",
+      "incorrectAnswers": [
+        "Snickers",
+        "3 Musketeers",
+        "Milky Way"
       ]
     }
   ]

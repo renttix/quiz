@@ -45,6 +45,96 @@
         "Teenage Mutant Ninja Turtles",
         "G.I. Joe"
       ]
+    },
+    {
+      "question": "In the 1980s, which board game became famous for its TV commercial that exclaimed, 'You sunk my battleship!'?",
+      "correctAnswer": "Battleship",
+      "incorrectAnswers": [
+        "Connect Four",
+        "Risk",
+        "Operation"
+      ]
+    },
+    {
+      "question": "Which of these was a highly sought-after plush toy in the 1980s that featured a cassette tape player in its back, allowing it to 'talk' and 'sing'?",
+      "correctAnswer": "Teddy Ruxpin",
+      "incorrectAnswers": [
+        "Care Bears",
+        "My Buddy",
+        "Cabbage Patch Kids"
+      ]
+    },
+    {
+      "question": "Released in the early 1980s, what was the name of the popular handheld electronic game that involved catching falling eggs in a basket, produced by Nintendo?",
+      "correctAnswer": "Game & Watch: Egg",
+      "incorrectAnswers": [
+        "Tamagotchi",
+        "LeapFrog",
+        "Lite-Brite"
+      ]
+    },
+    {
+      "question": "What was the name of the popular 1980s toy that allowed children to create glowing art by placing small colored plastic pegs in a lit board?",
+      "correctAnswer": "Lite-Brite",
+      "incorrectAnswers": [
+        "Bright Pegs",
+        "Magic Screen",
+        "Glow Board"
+      ]
+    },
+    {
+      "question": "Which of these iconic video game consoles was released in the 1980s, becoming a staple of that era's gaming culture?",
+      "correctAnswer": "Nintendo Entertainment System",
+      "incorrectAnswers": [
+        "Sega Genesis",
+        "Atari 7800",
+        "PlayStation"
+      ]
+    },
+    {
+      "question": "In the late 1970s, which toy became a worldwide craze, challenging users to match colored sides by twisting its segments?",
+      "correctAnswer": "Rubik's Cube",
+      "incorrectAnswers": [
+        "Magic Snake",
+        "Color Match Puzzle",
+        "Twist and Solve"
+      ]
+    },
+    {
+      "question": "What was the name of the plush, scented dolls that had names like 'Strawberry Shortcake' and became a phenomenon among children in the early 1980s?",
+      "correctAnswer": "Strawberry Shortcake dolls",
+      "incorrectAnswers": [
+        "Cabbage Patch Kids",
+        "Care Bears",
+        "My Little Pony"
+      ]
+    },
+    {
+      "question": "Which handheld electronic game, first released in the late 1970s, challenged players to maneuver a running man through increasing levels of obstacles?",
+      "correctAnswer": "Electronic Football",
+      "incorrectAnswers": [
+        "Game & Watch",
+        "Speak & Spell",
+        "Merlin"
+      ]
+    },
+    {
+      "question": "What popular toy line featured small, colorful horses with unique symbols on their flanks?",
+      "correctAnswer": "My Little Pony",
+      "incorrectAnswers": [
+        "Care Bears",
+        "Pound Puppies",
+        "Rainbow Brite"
+      ]
+    },
+    {
+      "question": "Which educational electronic toy, released by Texas Instruments in 1978, helped children learn to spell and pronounce words?",
+      "correctAnswer": "Speak & Spell",
+      "incorrectAnswers": [
+        "Little Professor",
+        "DataMan",
+        "Quiz Kid"
+      ]
     }
   ]
 }

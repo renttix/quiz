@@ -2,21 +2,39 @@
   "category": "Music",
   "questions": [
     {
-      "question": "Which band released the hit song 'Hotel California' in 1977?",
-      "correctAnswer": "Eagles",
+      "question": "What was the first video played on MTV in 1981?",
+      "correctAnswer": "Video Killed the Radio Star by The Buggles",
       "incorrectAnswers": [
-        "Fleetwood Mac",
-        "Led Zeppelin",
-        "The Doors"
+        "Thriller by Michael Jackson",
+        "Money for Nothing by Dire Straits",
+        "Sultans of Swing by Dire Straits"
       ]
     },
     {
-      "question": "Who was known as the 'Queen of Disco' in the late 1970s?",
+      "question": "Which 1985 charity single was recorded by the supergroup USA for Africa?",
+      "correctAnswer": "We Are the World",
+      "incorrectAnswers": [
+        "Do They Know It's Christmas?",
+        "Band Aid",
+        "Feed the World"
+      ]
+    },
+    {
+      "question": "Which artist released the album 'Thriller', becoming the best-selling album of all time?",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Prince",
+        "Madonna",
+        "Bruce Springsteen"
+      ]
+    },
+    {
+      "question": "Who is known as the Queen of Disco?",
       "correctAnswer": "Donna Summer",
       "incorrectAnswers": [
         "Diana Ross",
-        "Cher",
-        "Gloria Gaynor"
+        "Gloria Gaynor",
+        "Cher"
       ]
     },
     {
@@ -29,21 +47,93 @@
       ]
     },
     {
-      "question": "Which Michael Jackson album became the best-selling album of all time?",
-      "correctAnswer": "Thriller",
+      "question": "Which song did Queen perform at Live Aid in 1985?",
+      "correctAnswer": "Bohemian Rhapsody",
       "incorrectAnswers": [
-        "Off the Wall",
-        "Bad",
-        "Dangerous"
+        "We Will Rock You",
+        "Somebody to Love",
+        "Radio Ga Ga"
       ]
     },
     {
-      "question": "Which 1980s band was famous for the hit song 'Don't You Want Me'?",
-      "correctAnswer": "The Human League",
+      "question": "Who sang 'Every Breath You Take' in 1983?",
+      "correctAnswer": "The Police",
       "incorrectAnswers": [
-        "Depeche Mode",
-        "Duran Duran",
-        "Spandau Ballet"
+        "U2",
+        "The Cure",
+        "Dire Straits"
+      ]
+    },
+    {
+      "question": "Which artist is known for the hit song 'Billie Jean' released in 1982?",
+      "correctAnswer": "Michael Jackson",
+      "incorrectAnswers": [
+        "Prince",
+        "Lionel Richie",
+        "Rick James"
+      ]
+    },
+    {
+      "question": "What band released the influential album 'Rumours' in 1977?",
+      "correctAnswer": "Fleetwood Mac",
+      "incorrectAnswers": [
+        "Eagles",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ]
+    },
+    {
+      "question": "Who sang the 1980 hit 'Call Me'?",
+      "correctAnswer": "Blondie",
+      "incorrectAnswers": [
+        "Pat Benatar",
+        "Cyndi Lauper",
+        "Madonna"
+      ]
+    },
+    {
+      "question": "Which of these songs was NOT a hit for Queen in the 1970s?",
+      "correctAnswer": "Radio Ga Ga",
+      "incorrectAnswers": [
+        "Bohemian Rhapsody",
+        "We Will Rock You",
+        "Somebody to Love"
+      ]
+    },
+    {
+      "question": "Which group is credited with the song 'Stayin' Alive' from the Saturday Night Fever soundtrack?",
+      "correctAnswer": "Bee Gees",
+      "incorrectAnswers": [
+        "ABBA",
+        "The Village People",
+        "Earth, Wind & Fire"
+      ]
+    },
+    {
+      "question": "Which band released 'Another Brick in the Wall, Part 2' in 1979?",
+      "correctAnswer": "Pink Floyd",
+      "incorrectAnswers": [
+        "Led Zeppelin",
+        "The Who",
+        "Queen"
+      ]
+    },
+    {
+      "question": "Who was the lead singer of the band Blondie?",
+      "correctAnswer": "Debbie Harry",
+      "incorrectAnswers": [
+        "Stevie Nicks",
+        "Joan Jett",
+        "Patti Smith"
+      ]
+    },
+    {
+      "question": "Who sang 'Purple Rain'?",
+      "correctAnswer": "Prince",
+      "incorrectAnswers": [
+        "Michael Jackson",
+        "David Bowie",
+        "Bruce Springsteen"
       ]
     }
   ]
