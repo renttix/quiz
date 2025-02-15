@@ -2,62 +2,71 @@
   "category": "Technology",
   "questions": [
     {
-      "question": "What was the name of Sony's first portable music player released in 1979?",
-      "correctAnswer": "Walkman",
+      "question": "Which computer, released in the early 1980s, is credited with popularizing the home computer market?",
+      "correctAnswer": "Commodore 64",
       "incorrectAnswers": [
-        "Soundabout",
-        "Stereo Belt",
-        "Playman"
+        "IBM PC",
+        "Apple II",
+        "Atari 2600"
       ]
     },
     {
-      "question": "What was the standard data storage for most home computers in the early 1980s?",
-      "correctAnswer": "Cassette tape",
+      "question": "Which of the following was NOT a feature of 90s-era cell phones?",
+      "correctAnswer": "Touchscreen",
       "incorrectAnswers": [
-        "Floppy disk",
-        "Hard disk",
-        "CD-ROM"
+        "Text messaging",
+        "Monochrome LCD screen",
+        "Extendable antenna"
       ]
     },
     {
-      "question": "Which 1980s technology became synonymous with home recording and is often remembered for the slogan 'Don't copy that floppy'?",
-      "correctAnswer": "VHS",
+      "question": "In the early 2000s, which of these was a popular method for illegally downloading music?",
+      "correctAnswer": "Napster",
       "incorrectAnswers": [
-        "Betamax",
-        "LaserDisc",
-        "Vinyl record"
+        "Spotify",
+        "Google Play Music",
+        "iTunes"
       ]
     },
     {
-      "question": "What was the name of the first portable cell phone introduced in 1983?",
-      "correctAnswer": "Motorola DynaTAC 8000X",
+      "question": "What was the name of the first successful mass-market personal computer to feature a graphical user interface (GUI) and a mouse, launched in the 1980s?",
+      "correctAnswer": "Apple Macintosh",
       "incorrectAnswers": [
-        "Nokia Mobira Senator",
-        "Motorola MicroTAC",
-        "IBM Simon"
+        "IBM Personal Computer",
+        "Commodore PET",
+        "TRS-80"
       ]
     },
     {
-      "question": "In what year was the first CD player sold in Japan?",
-      "correctAnswer": "1982",
+      "question": "What was the name of the first widely popular web browser, introduced in the 1990s, that played a significant role in the initial growth of the World Wide Web?",
+      "correctAnswer": "Netscape Navigator",
       "incorrectAnswers": [
-        "1978",
-        "1980",
-        "1984"
+        "Internet Explorer",
+        "Mosaic",
+        "Firefox"
       ]
     },
     {
-      "question": "Which home video game console, released in 1977, is credited with popularizing the use of microprocessor-based hardware and cartridges containing game code?",
-      "correctAnswer": "Atari 2600",
+      "question": "Which 1990s digital pet toy, originating from Japan, became a global craze among children?",
+      "correctAnswer": "Tamagotchi",
       "incorrectAnswers": [
-        "Nintendo Entertainment System",
-        "Intellivision",
-        "ColecoVision"
+        "Furby",
+        "Neopets",
+        "Giga Pet"
       ]
     },
     {
-      "question": "In 1984, this company introduced the first commercially successful computer to use a graphical user interface (GUI) and a mouse. What is the name of the company?",
-      "correctAnswer": "Apple Inc.",
+      "question": "In the 1990s, what was the name of the popular operating system that featured the Start button for the first time?",
+      "correctAnswer": "Windows 95",
+      "incorrectAnswers": [
+        "Windows XP",
+        "Mac OS 8",
+        "Linux 2.0"
+      ]
+    },
+    {
+      "question": "What technology company introduced the personal computer known as the Apple II in 1977?",
+      "correctAnswer": "Apple",
       "incorrectAnswers": [
         "Microsoft",
         "IBM",
@@ -65,75 +74,66 @@
       ]
     },
     {
-      "question": "What was the first portable computer released in 1981, known for its briefcase size and significant impact on the computer industry?",
-      "correctAnswer": "Osborne 1",
+      "question": "What was the name of the first widely popular web browser, launched in 1993?",
+      "correctAnswer": "Mosaic",
       "incorrectAnswers": [
-        "Compaq Portable",
-        "IBM 5100",
-        "TRS-80 Model 100"
+        "Internet Explorer",
+        "Netscape Navigator",
+        "Opera"
       ]
     },
     {
-      "question": "Which of the following was a popular programming language developed in the early 1970s, widely used in education and by hobbyists in the 1980s?",
-      "correctAnswer": "BASIC",
+      "question": "In what year was the first SMS (Short Message Service) text message sent?",
+      "correctAnswer": "1992",
       "incorrectAnswers": [
-        "COBOL",
-        "Fortran",
-        "Pascal"
+        "1985",
+        "1990",
+        "1995"
       ]
     },
     {
-      "question": "Which computer, introduced in 1984, was known for its graphical user interface and mouse?",
-      "correctAnswer": "Apple Macintosh",
+      "question": "What was the first handheld gaming device with interchangeable game cartridges?",
+      "correctAnswer": "Milton Bradley Microvision",
       "incorrectAnswers": [
-        "IBM PC",
-        "Commodore 64",
-        "Atari 1040ST"
+        "Nintendo Game Boy",
+        "Atari Lynx",
+        "Sega Game Gear"
       ]
     },
     {
-      "question": "Which of the following was not a feature of the original Sony Walkman released in 1979?",
-      "correctAnswer": "Bluetooth connectivity",
-      "incorrectAnswers": [
-        "Stereo playback",
-        "Portable design",
-        "Cassette player"
-      ]
-    },
-    {
-      "question": "What programming language, still widely used today, was developed in the early 1970s and emphasizes readability and efficiency?",
-      "correctAnswer": "C",
-      "incorrectAnswers": [
-        "Fortran",
-        "COBOL",
-        "Pascal"
-      ]
-    },
-    {
-      "question": "Which computer company introduced the first hard disk drive for personal computers in 1980?",
-      "correctAnswer": "Seagate",
+      "question": "Which company released the first commercially successful laser printer in 1984?",
+      "correctAnswer": "Hewlett-Packard",
       "incorrectAnswers": [
         "IBM",
-        "Apple",
-        "Western Digital"
+        "Xerox",
+        "Canon"
       ]
     },
     {
-      "question": "What was the first widely successful email program released in the early 1980s?",
+      "question": "What was the first social media platform to reach one million users in the early 2000s?",
+      "correctAnswer": "Friendster",
+      "incorrectAnswers": [
+        "MySpace",
+        "Facebook",
+        "LinkedIn"
+      ]
+    },
+    {
+      "question": "Which company introduced the first commercially successful computer mouse in 1983?",
+      "correctAnswer": "Microsoft",
+      "incorrectAnswers": [
+        "Apple",
+        "IBM",
+        "Xerox"
+      ]
+    },
+    {
+      "question": "What was the first widely used email client software in the 1990s?",
       "correctAnswer": "Eudora",
       "incorrectAnswers": [
         "Outlook",
         "Lotus Notes",
-        "Pine"
-      ]
-    },
-    {
-      "question": "Which company released the first laser printer for the mass market in 1984?",
-      "correctAnswer": "Hewlett-Packard",
-      "incorrectAnswers": [
-        "Xerox",
-        "Canon",
-        "Epson"
+        "Thunderbird"
       ]
     }
   ]

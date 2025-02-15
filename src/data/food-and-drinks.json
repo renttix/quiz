@@ -2,138 +2,138 @@
   "category": "Food & Drinks",
   "questions": [
     {
-      "question": "Which soda, introduced in the 1970s, was famous for its marketing as a 'diet' drink without the typical diet flavor?",
-      "correctAnswer": "Tab",
+      "question": "What drink, introduced in the 1970s, was marketed as a 'meal in a can' for adults?",
+      "correctAnswer": "Ensure",
       "incorrectAnswers": [
-        "Diet Rite",
-        "Fresca",
-        "Diet Pepsi"
+        "SlimFast",
+        "Sustacal",
+        "Metrecal"
       ]
     },
     {
-      "question": "Which snack was heavily marketed in the 1970s as a healthier option to potato chips and came in flavors like ranch and nacho cheese?",
-      "correctAnswer": "Doritos",
-      "incorrectAnswers": [
-        "Pringles",
-        "Fritos",
-        "Bugles"
-      ]
-    },
-    {
-      "question": "What candy, introduced in the late 1970s, was known for its slogan 'Taste the Rainbow'?",
-      "correctAnswer": "Skittles",
-      "incorrectAnswers": [
-        "M&Ms",
-        "Starburst",
-        "Jolly Rancher"
-      ]
-    },
-    {
-      "question": "Which cereal was introduced in the 1980s and featured a cartoon character as its mascot?",
-      "correctAnswer": "Cinnamon Toast Crunch",
-      "incorrectAnswers": [
-        "Lucky Charms",
-        "Froot Loops",
-        "Trix"
-      ]
-    },
-    {
-      "question": "Which soft drink was famously introduced in 1985 and then quickly discontinued due to public backlash?",
-      "correctAnswer": "New Coke",
-      "incorrectAnswers": [
-        "Crystal Pepsi",
-        "Tab Clear",
-        "Pepsi Blue"
-      ]
-    },
-    {
-      "question": "What was the name of the popular 1970s snack that consisted of a spreadable cheese product with crackers?",
-      "correctAnswer": "Handi-Snacks",
-      "incorrectAnswers": [
-        "Cheez Whiz",
-        "Easy Cheese",
-        "Velveeta"
-      ]
-    },
-    {
-      "question": "Which iconic fast food item was introduced by McDonald's in the 1980s?",
-      "correctAnswer": "Chicken McNuggets",
-      "incorrectAnswers": [
-        "Big Mac",
-        "Filet-O-Fish",
-        "McRib"
-      ]
-    },
-    {
-      "question": "What was the iconic slogan for Coca-Cola starting in 1979?",
-      "correctAnswer": "Have a Coke and a Smile",
-      "incorrectAnswers": [
-        "The Real Thing",
-        "Open Happiness",
-        "Taste the Feeling"
-      ]
-    },
-    {
-      "question": "Which of these breakfast cereals was introduced by General Mills in the 1970s?",
-      "correctAnswer": "Count Chocula",
-      "incorrectAnswers": [
-        "Froot Loops",
-        "Apple Jacks",
-        "Cap'n Crunch"
-      ]
-    },
-    {
-      "question": "In the 1980s, which fast food chain introduced the slogan 'Where's the beef?'",
-      "correctAnswer": "Wendy's",
-      "incorrectAnswers": [
-        "McDonald's",
-        "Burger King",
-        "KFC"
-      ]
-    },
-    {
-      "question": "What was the name of the fruit-flavored snack that featured a smiling face in the 1980s, popular among kids?",
-      "correctAnswer": "Fruit Roll-Ups",
-      "incorrectAnswers": [
-        "Gushers",
-        "Fruit by the Foot",
-        "Fruit Snacks"
-      ]
-    },
-    {
-      "question": "Which beverage was famously advertised with the slogan 'I'd Like to Buy the World a Coke' in the early 1970s?",
-      "correctAnswer": "Coca-Cola",
-      "incorrectAnswers": [
-        "Pepsi",
-        "Dr Pepper",
-        "7 Up"
-      ]
-    },
-    {
-      "question": "What was the name of the snack that was a cheese-flavored popcorn and peanut mix, popular in the 1980s?",
-      "correctAnswer": "Cracker Jack Cheese",
-      "incorrectAnswers": [
-        "Cheez-It Mix",
-        "Cheetos Snack Mix",
-        "Poppycock"
-      ]
-    },
-    {
-      "question": "Which fast-food restaurant introduced the 'Big Mac' in the 1970s?",
+      "question": "Which fast-food chain introduced the 'Happy Meal' in the late 1970s?",
       "correctAnswer": "McDonald's",
       "incorrectAnswers": [
         "Burger King",
         "Wendy's",
-        "Jack in the Box"
+        "KFC"
       ]
     },
     {
-      "question": "What popular candy bar featured the slogan 'Sometimes you feel like a nut, sometimes you don't' in the 1980s?",
-      "correctAnswer": "Mounds/Almond Joy",
+      "question": "In the 1980s, this soda was introduced as a competitor to Pepsi and Coke but failed to gain a significant market share. What was it called?",
+      "correctAnswer": "New Coke",
       "incorrectAnswers": [
-        "Snickers",
-        "3 Musketeers",
-        "Milky Way"
+        "Crystal Pepsi",
+        "Jolt Cola",
+        "RC Cola"
+      ]
+    },
+    {
+      "question": "Which coffee chain introduced the Pumpkin Spice Latte in the early 2000s, creating a seasonal trend that continues today?",
+      "correctAnswer": "Starbucks",
+      "incorrectAnswers": [
+        "Dunkin'",
+        "Peet's Coffee",
+        "Tim Hortons"
+      ]
+    },
+    {
+      "question": "Which of the following snack foods was introduced in the 1970s and became famous for its 'I bet you can't eat just one' slogan?",
+      "correctAnswer": "Lay's Potato Chips",
+      "incorrectAnswers": [
+        "Doritos",
+        "Cheetos",
+        "Pringles"
+      ]
+    },
+    {
+      "question": "In the 1980s, this beverage was marketed as 'The Choice of a New Generation'. What was it?",
+      "correctAnswer": "Pepsi",
+      "incorrectAnswers": [
+        "Coca-Cola",
+        "7-Up",
+        "Dr Pepper"
+      ]
+    },
+    {
+      "question": "What candy, introduced in the 1990s, was known for being 'magically delicious'?",
+      "correctAnswer": "Wonder Ball",
+      "incorrectAnswers": [
+        "Nerds",
+        "Ring Pop",
+        "Gushers"
+      ]
+    },
+    {
+      "question": "Which of the following was a popular fast food introduction in the 2000s, known for its catchy jingle in commercials?",
+      "correctAnswer": "Subway's $5 Footlong",
+      "incorrectAnswers": [
+        "McDonald's McGriddles",
+        "Burger King's Chicken Fries",
+        "KFC's Snacker"
+      ]
+    },
+    {
+      "question": "What breakfast cereal character is known for saying, 'They're grrreat!' and was massively popular throughout these decades?",
+      "correctAnswer": "Tony the Tiger (Frosted Flakes)",
+      "incorrectAnswers": [
+        "Cap'n Crunch",
+        "Toucan Sam (Froot Loops)",
+        "Lucky the Leprechaun (Lucky Charms)"
+      ]
+    },
+    {
+      "question": "What breakfast cereal was introduced in the 1970s and promoted by a cartoon character named Cap'n Crunch?",
+      "correctAnswer": "Quisp",
+      "incorrectAnswers": [
+        "Lucky Charms",
+        "Froot Loops",
+        "Cocoa Puffs"
+      ]
+    },
+    {
+      "question": "What breakfast cereal was known for its 'I'm Cuckoo for Cocoa Puffs' slogan in the 1980s?",
+      "correctAnswer": "Cocoa Puffs",
+      "incorrectAnswers": [
+        "Trix",
+        "Fruity Pebbles",
+        "Lucky Charms"
+      ]
+    },
+    {
+      "question": "Which of these snack foods gained immense popularity in the 1990s, especially among kids, for its colorful design and fruit flavors?",
+      "correctAnswer": "Gushers",
+      "incorrectAnswers": [
+        "Doritos 3D",
+        "Fruit by the Foot",
+        "Capri Sun"
+      ]
+    },
+    {
+      "question": "Which beverage, introduced in the 2000s, became famous for its wide range of flavors and association with extreme sports?",
+      "correctAnswer": "Monster Energy",
+      "incorrectAnswers": [
+        "Surge",
+        "Sobe Lifewater",
+        "Jolt Cola"
+      ]
+    },
+    {
+      "question": "What iconic fast food item was introduced by McDonald's in the 1980s and became a staple of their menu worldwide?",
+      "correctAnswer": "Chicken McNuggets",
+      "incorrectAnswers": [
+        "Big Mac",
+        "Quarter Pounder",
+        "Filet-O-Fish"
+      ]
+    },
+    {
+      "question": "Which snack food brand introduced their famous 'Nacho Cheese' flavor in the 1970s?",
+      "correctAnswer": "Doritos",
+      "incorrectAnswers": [
+        "Cheetos",
+        "Fritos",
+        "Tostitos"
       ]
     }
   ]

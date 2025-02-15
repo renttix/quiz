@@ -2,138 +2,138 @@
   "category": "Cars & Transportation",
   "questions": [
     {
-      "question": "In 1977, which car model did Volkswagen introduce as the first front-wheel drive economy car?",
-      "correctAnswer": "Volkswagen Golf",
+      "question": "In the 1970s, which car became synonymous with the term 'muscle car' and featured prominently in films and popular culture?",
+      "correctAnswer": "Dodge Charger",
       "incorrectAnswers": [
-        "Volkswagen Beetle",
-        "Volkswagen Jetta",
-        "Volkswagen Passat"
+        "Ford Pinto",
+        "Chevrolet Vega",
+        "AMC Gremlin"
       ]
     },
     {
-      "question": "What was the original name of the Ford Mustang Mach 1 when it was first introduced in 1969?",
-      "correctAnswer": "Simply Mach 1",
+      "question": "What was the iconic feature of the DeLorean DMC-12, made famous in the 1980s 'Back to the Future' movie series?",
+      "correctAnswer": "Gull-wing doors",
       "incorrectAnswers": [
-        "Mustang Firebird",
-        "Mustang Cobra",
-        "Mustang Stallion"
+        "Pop-up headlights",
+        "T-Top roof",
+        "Rear-mounted engine"
       ]
     },
     {
-      "question": "Which Japanese car manufacturer introduced the luxury brand Lexus in 1989?",
-      "correctAnswer": "Toyota",
+      "question": "Which 1990s SUV is often credited with starting the SUV craze in America, becoming a suburban status symbol?",
+      "correctAnswer": "Ford Explorer",
       "incorrectAnswers": [
-        "Nissan",
-        "Honda",
-        "Mazda"
+        "Jeep Cherokee",
+        "Toyota RAV4",
+        "Chevrolet Tahoe"
       ]
     },
     {
-      "question": "What iconic feature of the 1982 Pontiac Trans Am was made famous by the TV show 'Knight Rider'?",
-      "correctAnswer": "Talking car AI named KITT",
+      "question": "In the 2000s, which car was famously involved in a major global recall due to unintended acceleration issues?",
+      "correctAnswer": "Toyota Camry",
       "incorrectAnswers": [
-        "Ejector seats",
-        "Invisible paint",
-        "Flux capacitor"
+        "Honda Accord",
+        "Ford Focus",
+        "Chevrolet Impala"
       ]
     },
     {
-      "question": "What unique feature did the 1980s Chevrolet Corvette have that was highly distinctive?",
-      "correctAnswer": "Glass hatchback",
+      "question": "What iconic sports car was reintroduced in the 1980s with a significant design overhaul, making it a symbol of the decade?",
+      "correctAnswer": "Chevrolet Corvette (C4)",
       "incorrectAnswers": [
-        "Gull-wing doors",
-        "Rotary engine",
-        "Solar powered headlights"
+        "Ford Mustang (Third Generation)",
+        "Porsche 944",
+        "Toyota Supra (A70)"
       ]
     },
     {
-      "question": "Which of the following was a common feature in cars from the 1980s?",
-      "correctAnswer": "Turbocharging",
+      "question": "Which car was introduced in the 1990s and became synonymous with the rise of Japanese sports cars in the United States?",
+      "correctAnswer": "Mazda MX-5 Miata",
       "incorrectAnswers": [
-        "Hybrid engines",
-        "Autopilot",
-        "Heads-up display"
+        "Nissan 300ZX",
+        "Toyota MR2",
+        "Honda NSX"
       ]
     },
     {
-      "question": "In 1977, which company introduced the first Japanese luxury car, the Cressida, to the U.S. market?",
-      "correctAnswer": "Toyota",
-      "incorrectAnswers": [
-        "Nissan",
-        "Honda",
-        "Mitsubishi"
-      ]
-    },
-    {
-      "question": "What was the name of the compact car introduced by Ford in 1971 that became synonymous with the economy cars of the 1970s?",
-      "correctAnswer": "Ford Pinto",
-      "incorrectAnswers": [
-        "Ford Mustang II",
-        "Ford Falcon",
-        "Ford Fairlane"
-      ]
-    },
-    {
-      "question": "Which of the following vehicles was not introduced in the 1980s?",
-      "correctAnswer": "Chevrolet Vega",
-      "incorrectAnswers": [
-        "Dodge Caravan",
-        "Chevrolet Cavalier",
-        "Ford Escort"
-      ]
-    },
-    {
-      "question": "What was the first Japanese car to be manufactured in the United States, beginning in 1982?",
-      "correctAnswer": "Honda Accord",
-      "incorrectAnswers": [
-        "Toyota Camry",
-        "Nissan Sentra",
-        "Mazda 626"
-      ]
-    },
-    {
-      "question": "Which American car company introduced the K-car platform in 1981, helping save the company from bankruptcy?",
-      "correctAnswer": "Chrysler",
-      "incorrectAnswers": [
-        "Ford",
-        "General Motors",
-        "AMC"
-      ]
-    },
-    {
-      "question": "What revolutionary new type of vehicle did Chrysler introduce in 1984?",
-      "correctAnswer": "Minivan",
-      "incorrectAnswers": [
-        "SUV",
-        "Hybrid car",
-        "Electric car"
-      ]
-    },
-    {
-      "question": "Which sports car was introduced by Pontiac in 1984 as their first mid-engine vehicle?",
-      "correctAnswer": "Pontiac Fiero",
-      "incorrectAnswers": [
-        "Pontiac GTO",
-        "Pontiac Firebird",
-        "Pontiac Grand Prix"
-      ]
-    },
-    {
-      "question": "What was the best-selling car in America throughout most of the 1970s?",
-      "correctAnswer": "Oldsmobile Cutlass",
-      "incorrectAnswers": [
-        "Ford Mustang",
-        "Chevrolet Impala",
-        "Plymouth Valiant"
-      ]
-    },
-    {
-      "question": "Which European luxury car manufacturer introduced the 944 model in 1982?",
-      "correctAnswer": "Porsche",
+      "question": "During the 1980s, which luxury car brand introduced the legendary 'Quattro' all-wheel drive system, revolutionizing performance cars?",
+      "correctAnswer": "Audi",
       "incorrectAnswers": [
         "BMW",
         "Mercedes-Benz",
-        "Audi"
+        "Porsche"
+      ]
+    },
+    {
+      "question": "Which vehicle was known as the first luxury SUV, gaining popularity in the 1990s?",
+      "correctAnswer": "Range Rover",
+      "incorrectAnswers": [
+        "Jeep Cherokee",
+        "Ford Explorer",
+        "Chevrolet Tahoe"
+      ]
+    },
+    {
+      "question": "During the 1980s, which iconic motorcycle model was revived by Harley-Davidson, helping to save the company?",
+      "correctAnswer": "Softail",
+      "incorrectAnswers": [
+        "Dyna",
+        "Sportster",
+        "V-Rod"
+      ]
+    },
+    {
+      "question": "What was a significant advancement in automotive safety introduced in the 1970s?",
+      "correctAnswer": "Anti-lock Braking System (ABS)",
+      "incorrectAnswers": [
+        "Blindspot Monitoring",
+        "Rearview Camera",
+        "Lane Departure Warning"
+      ]
+    },
+    {
+      "question": "Which iconic sports car made its debut in 1982, becoming a symbol of 1980s performance and style?",
+      "correctAnswer": "Chevrolet Camaro IROC-Z",
+      "incorrectAnswers": [
+        "Ford Mustang GT",
+        "Porsche 944",
+        "Honda NSX"
+      ]
+    },
+    {
+      "question": "In the 1990s, which minivan became synonymous with suburban family life?",
+      "correctAnswer": "Dodge Caravan",
+      "incorrectAnswers": [
+        "Ford Aerostar",
+        "Chevrolet Lumina APV",
+        "Toyota Previa"
+      ]
+    },
+    {
+      "question": "Which car was famously known as the first mass-produced hybrid vehicle, introduced in the late 1990s?",
+      "correctAnswer": "Toyota Prius",
+      "incorrectAnswers": [
+        "Honda Insight",
+        "Ford Escape Hybrid",
+        "Chevrolet Volt"
+      ]
+    },
+    {
+      "question": "In the early 2000s, which luxury SUV became a status symbol, often associated with celebrities?",
+      "correctAnswer": "Cadillac Escalade",
+      "incorrectAnswers": [
+        "Lincoln Navigator",
+        "BMW X5",
+        "Mercedes-Benz G-Class"
+      ]
+    },
+    {
+      "question": "Which Japanese car manufacturer introduced the first mass-produced rotary engine car in the 1970s?",
+      "correctAnswer": "Mazda",
+      "incorrectAnswers": [
+        "Toyota",
+        "Honda",
+        "Nissan"
       ]
     }
   ]

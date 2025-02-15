@@ -2,138 +2,138 @@
   "category": "Toys & Games",
   "questions": [
     {
-      "question": "Which of these was a popular electronic toy introduced in the late 1970s that challenged players to repeat increasingly complex sequences of flashing lights and sounds?",
-      "correctAnswer": "Simon",
+      "question": "Which action figure toy line, first introduced in the 1980s, featured characters from a fictional universe and included a popular animated TV series?",
+      "correctAnswer": "He-Man and the Masters of the Universe",
       "incorrectAnswers": [
-        "Bop It",
-        "Speak & Spell",
-        "Lite-Brite"
+        "Transformers",
+        "G.I. Joe",
+        "ThunderCats"
       ]
     },
     {
-      "question": "What was the name of the toy line introduced in the early 1980s that featured robotic action figures and vehicles which could be combined to form a larger robot?",
-      "correctAnswer": "Transformers",
-      "incorrectAnswers": [
-        "Voltron",
-        "Gobots",
-        "M.A.S.K."
-      ]
-    },
-    {
-      "question": "Which board game, first sold in the late 1970s, involves players buying and selling property in an attempt to bankrupt their opponents?",
+      "question": "In the 1970s, this board game, where players buy and trade properties trying to bankrupt their opponents, saw a resurgence in popularity. What is it?",
       "correctAnswer": "Monopoly",
       "incorrectAnswers": [
+        "Risk",
         "Life",
-        "Risk",
-        "Pictionary"
+        "Scrabble"
       ]
     },
     {
-      "question": "Introduced in the 1980s, which plush toy line included characters with names like Wish Bear, Grumpy Bear, and Cheer Bear, each bearing a unique symbol on its belly?",
-      "correctAnswer": "Care Bears",
+      "question": "Which toy, introduced in the early 2000s, allows users to create 3D scribbles in the air using a plastic filament?",
+      "correctAnswer": "3Doodler",
       "incorrectAnswers": [
-        "Cabbage Patch Kids",
-        "My Little Pony",
-        "Popples"
+        "Magic Marker",
+        "Lite-Brite",
+        "Spirograph"
       ]
     },
     {
-      "question": "What was the name of the popular action figures introduced in the early 1980s that came with a mini comic book and featured characters like He-Man and Skeletor?",
-      "correctAnswer": "Masters of the Universe",
+      "question": "This interactive electronic toy from the late 90s responded to voice commands, allowing kids to feed and care for it virtually. What was it called?",
+      "correctAnswer": "Furby",
       "incorrectAnswers": [
-        "ThunderCats",
-        "Teenage Mutant Ninja Turtles",
-        "G.I. Joe"
+        "Webkinz",
+        "Neopets",
+        "Poo-Chi"
       ]
     },
     {
-      "question": "In the 1980s, which board game became famous for its TV commercial that exclaimed, 'You sunk my battleship!'?",
-      "correctAnswer": "Battleship",
+      "question": "What was the must-have toy of the 1985 holiday season, featuring a line of toys that transformed from vehicles and animals into robotic action figures?",
+      "correctAnswer": "Transformers",
       "incorrectAnswers": [
-        "Connect Four",
-        "Risk",
-        "Operation"
+        "G.I. Joe",
+        "He-Man",
+        "LEGO Space"
       ]
     },
     {
-      "question": "Which of these was a highly sought-after plush toy in the 1980s that featured a cassette tape player in its back, allowing it to 'talk' and 'sing'?",
-      "correctAnswer": "Teddy Ruxpin",
+      "question": "Which of these was a popular collectible card game introduced in the early 1990s that involves two players who act as wizards casting spells on each other?",
+      "correctAnswer": "Magic: The Gathering",
       "incorrectAnswers": [
-        "Care Bears",
-        "My Buddy",
-        "Cabbage Patch Kids"
+        "Yu-Gi-Oh!",
+        "Pokémon Trading Card Game",
+        "Digimon Card Game"
       ]
     },
     {
-      "question": "Released in the early 1980s, what was the name of the popular handheld electronic game that involved catching falling eggs in a basket, produced by Nintendo?",
-      "correctAnswer": "Game & Watch: Egg",
+      "question": "Released in 2001, which innovative console brought gaming to life with its dual-screen experience, one of which was touch-sensitive?",
+      "correctAnswer": "Nintendo DS",
       "incorrectAnswers": [
-        "Tamagotchi",
-        "LeapFrog",
-        "Lite-Brite"
+        "Game Boy Advance",
+        "PlayStation Portable",
+        "Sega Game Gear"
       ]
     },
     {
-      "question": "What was the name of the popular 1980s toy that allowed children to create glowing art by placing small colored plastic pegs in a lit board?",
-      "correctAnswer": "Lite-Brite",
+      "question": "What was the must-have Christmas toy of 1978 that continued to be extremely popular throughout the early '80s, featuring a film cartridge that kids could watch on their own?",
+      "correctAnswer": "Kenner Star Wars Electronic Battle Command Game",
       "incorrectAnswers": [
-        "Bright Pegs",
-        "Magic Screen",
-        "Glow Board"
+        "Mattel Electronics Football",
+        "Coleco Telstar",
+        "Atari 2600"
       ]
     },
     {
-      "question": "Which of these iconic video game consoles was released in the 1980s, becoming a staple of that era's gaming culture?",
-      "correctAnswer": "Nintendo Entertainment System",
-      "incorrectAnswers": [
-        "Sega Genesis",
-        "Atari 7800",
-        "PlayStation"
-      ]
-    },
-    {
-      "question": "In the late 1970s, which toy became a worldwide craze, challenging users to match colored sides by twisting its segments?",
+      "question": "Which iconic puzzle toy, invented by a Hungarian architect, became a worldwide craze in the 1980s?",
       "correctAnswer": "Rubik's Cube",
       "incorrectAnswers": [
-        "Magic Snake",
-        "Color Match Puzzle",
-        "Twist and Solve"
+        "Simon",
+        "Lite-Brite",
+        "Etch A Sketch"
       ]
     },
     {
-      "question": "What was the name of the plush, scented dolls that had names like 'Strawberry Shortcake' and became a phenomenon among children in the early 1980s?",
-      "correctAnswer": "Strawberry Shortcake dolls",
+      "question": "Which video game console, launched in the late '90s, brought 3D gaming into mainstream popularity and featured iconic titles like 'Super Mario 64'?",
+      "correctAnswer": "Nintendo 64",
       "incorrectAnswers": [
-        "Cabbage Patch Kids",
-        "Care Bears",
-        "My Little Pony"
+        "Sony PlayStation",
+        "Sega Saturn",
+        "Atari Jaguar"
       ]
     },
     {
-      "question": "Which handheld electronic game, first released in the late 1970s, challenged players to maneuver a running man through increasing levels of obstacles?",
-      "correctAnswer": "Electronic Football",
+      "question": "What was the name of the popular early 2000s toy that combined portable music players with digital pets?",
+      "correctAnswer": "HitClips",
       "incorrectAnswers": [
-        "Game & Watch",
+        "Pixter",
+        "Tamagotchi Connection",
+        "Poo-Chi"
+      ]
+    },
+    {
+      "question": "What was the name of the video game console released by Nintendo in the 1980s that rejuvenated the video game industry?",
+      "correctAnswer": "Nintendo Entertainment System",
+      "incorrectAnswers": [
+        "Atari 2600",
+        "Sega Genesis",
+        "Commodore 64"
+      ]
+    },
+    {
+      "question": "Which handheld digital pet became a global phenomenon in the late 1990s?",
+      "correctAnswer": "Tamagotchi",
+      "incorrectAnswers": [
+        "Furby",
+        "Nano Pets",
+        "Giga Pets"
+      ]
+    },
+    {
+      "question": "Which electronic toy from the 1970s challenged players to repeat sequences of lights and sounds?",
+      "correctAnswer": "Simon",
+      "incorrectAnswers": [
         "Speak & Spell",
-        "Merlin"
+        "Merlin",
+        "Electronic Battleship"
       ]
     },
     {
-      "question": "What popular toy line featured small, colorful horses with unique symbols on their flanks?",
-      "correctAnswer": "My Little Pony",
+      "question": "In the early 2000s, which interactive toy featured small robotic pets that scurried around on surfaces?",
+      "correctAnswer": "Zhu Zhu Pets",
       "incorrectAnswers": [
-        "Care Bears",
-        "Pound Puppies",
-        "Rainbow Brite"
-      ]
-    },
-    {
-      "question": "Which educational electronic toy, released by Texas Instruments in 1978, helped children learn to spell and pronounce words?",
-      "correctAnswer": "Speak & Spell",
-      "incorrectAnswers": [
-        "Little Professor",
-        "DataMan",
-        "Quiz Kid"
+        "FurReal Friends",
+        "Littlest Pet Shop",
+        "Neopets"
       ]
     }
   ]

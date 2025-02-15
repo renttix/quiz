@@ -2,138 +2,138 @@
   "category": "Movies & TV Shows",
   "questions": [
     {
-      "question": "In the cult classic 'The Princess Bride' from 1987, who says the iconic line, 'Hello, my name is Inigo Montoya. You killed my father. Prepare to die'?",
-      "correctAnswer": "Inigo Montoya",
+      "question": "Which 1970s TV show featured a trio of female detectives working for a mysterious boss named Charlie?",
+      "correctAnswer": "Charlie's Angels",
       "incorrectAnswers": [
-        "Westley",
-        "Prince Humperdinck",
-        "Vizzini"
+        "The Bionic Woman",
+        "Wonder Woman",
+        "Police Woman"
       ]
     },
     {
-      "question": "Which 1979 film, directed by Ridley Scott, features the character Ellen Ripley?",
-      "correctAnswer": "Alien",
+      "question": "What was the name of the fictional town in which the 1990s TV show 'Twin Peaks' was set?",
+      "correctAnswer": "Twin Peaks",
+      "incorrectAnswers": [
+        "Sunnydale",
+        "Smallville",
+        "Cicely"
+      ]
+    },
+    {
+      "question": "What was the title of the reality TV show that premiered in 2000, featuring contestants stranded in remote locations to compete for cash and prizes?",
+      "correctAnswer": "Survivor",
+      "incorrectAnswers": [
+        "Big Brother",
+        "The Amazing Race",
+        "Fear Factor"
+      ]
+    },
+    {
+      "question": "In the 1970s, which movie introduced audiences to the summer blockbuster phenomenon?",
+      "correctAnswer": "Jaws",
+      "incorrectAnswers": [
+        "Star Wars",
+        "Rocky",
+        "The Exorcist"
+      ]
+    },
+    {
+      "question": "Which 1980s TV show featured a car that could talk and had artificial intelligence?",
+      "correctAnswer": "Knight Rider",
+      "incorrectAnswers": [
+        "The A-Team",
+        "Miami Vice",
+        "Magnum P.I."
+      ]
+    },
+    {
+      "question": "What 1990s movie coined the phrase, 'Life is like a box of chocolates'?",
+      "correctAnswer": "Forrest Gump",
+      "incorrectAnswers": [
+        "Pretty Woman",
+        "Titanic",
+        "The Shawshank Redemption"
+      ]
+    },
+    {
+      "question": "Who played the role of Rachel Green on the hit 1990s TV show 'Friends'?",
+      "correctAnswer": "Jennifer Aniston",
+      "incorrectAnswers": [
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Sarah Jessica Parker"
+      ]
+    },
+    {
+      "question": "Which 2000s movie featured a young wizard attending a school of witchcraft and wizardry?",
+      "correctAnswer": "Harry Potter and the Sorcerer's Stone",
+      "incorrectAnswers": [
+        "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "Eragon",
+        "Percy Jackson & the Olympians: The Lightning Thief"
+      ]
+    },
+    {
+      "question": "What was the name of the spaceship in the 1979 movie 'Alien'?",
+      "correctAnswer": "Nostromo",
+      "incorrectAnswers": [
+        "Enterprise",
+        "Sulaco",
+        "Discovery One"
+      ]
+    },
+    {
+      "question": "Who played the lead role in the 1990's TV series 'Xena: Warrior Princess'?",
+      "correctAnswer": "Lucy Lawless",
+      "incorrectAnswers": [
+        "Gina Torres",
+        "Sarah Michelle Gellar",
+        "Sigourney Weaver"
+      ]
+    },
+    {
+      "question": "In the 2001 movie 'The Fast and the Furious', what model was Dom's famous charger?",
+      "correctAnswer": "1970 Dodge Charger R/T",
+      "incorrectAnswers": [
+        "1969 Ford Mustang",
+        "1968 Chevrolet Camaro",
+        "1971 Plymouth Hemi 'Cuda"
+      ]
+    },
+    {
+      "question": "In the 1970s TV show 'M*A*S*H', what was the name of the camp's cross-dressing Corporal?",
+      "correctAnswer": "Maxwell Klinger",
+      "incorrectAnswers": [
+        "Radar O'Reilly",
+        "Hawkeye Pierce",
+        "B.J. Hunnicut"
+      ]
+    },
+    {
+      "question": "What was the name of the principal antagonist in the 1990s TV series 'Buffy the Vampire Slayer'?",
+      "correctAnswer": "The Master",
+      "incorrectAnswers": [
+        "Angelus",
+        "Spike",
+        "Glory"
+      ]
+    },
+    {
+      "question": "In the 2000s movie 'Shrek', what is the name of Shrek's wife?",
+      "correctAnswer": "Fiona",
+      "incorrectAnswers": [
+        "Daisy",
+        "Belle",
+        "Aurora"
+      ]
+    },
+    {
+      "question": "Which 1985 movie featured a time-traveling DeLorean and a teenager named Marty McFly?",
+      "correctAnswer": "Back to the Future",
       "incorrectAnswers": [
         "Blade Runner",
         "The Terminator",
-        "Star Wars: The Empire Strikes Back"
-      ]
-    },
-    {
-      "question": "Which TV show, premiering in 1984, featured a group of women working at an interior design firm in Atlanta, Georgia?",
-      "correctAnswer": "Designing Women",
-      "incorrectAnswers": [
-        "Golden Girls",
-        "Murphy Brown",
-        "The Colbys"
-      ]
-    },
-    {
-      "question": "Which movie released in 1977 became a cultural phenomenon, spawning a franchise including sequels, prequels, and TV shows?",
-      "correctAnswer": "Star Wars: Episode IV – A New Hope",
-      "incorrectAnswers": [
-        "Close Encounters of the Third Kind",
-        "Saturday Night Fever",
-        "The Spy Who Loved Me"
-      ]
-    },
-    {
-      "question": "What is the name of the fictional TV station in the sitcom 'WKRP in Cincinnati'?",
-      "correctAnswer": "WKRP",
-      "incorrectAnswers": [
-        "WNYX",
-        "WJM",
-        "WENN"
-      ]
-    },
-    {
-      "question": "In 'The Breakfast Club' (1985), which character is known as 'The Brain'?",
-      "correctAnswer": "Brian Johnson",
-      "incorrectAnswers": [
-        "John Bender",
-        "Claire Standish",
-        "Andrew Clark"
-      ]
-    },
-    {
-      "question": "Who directed the 1982 sci-fi film 'Blade Runner'?",
-      "correctAnswer": "Ridley Scott",
-      "incorrectAnswers": [
-        "Steven Spielberg",
-        "George Lucas",
-        "James Cameron"
-      ]
-    },
-    {
-      "question": "In the TV show 'Knight Rider', what was the name of David Hasselhoff's talking car?",
-      "correctAnswer": "KITT",
-      "incorrectAnswers": [
-        "KARR",
-        "HAL",
-        "AUTO"
-      ]
-    },
-    {
-      "question": "Which film featured a group of kids searching for pirate treasure, released in 1985?",
-      "correctAnswer": "The Goonies",
-      "incorrectAnswers": [
-        "Explorers",
-        "Stand By Me",
-        "Time Bandits"
-      ]
-    },
-    {
-      "question": "Who played the lead role in the 1984 film 'The Karate Kid'?",
-      "correctAnswer": "Ralph Macchio",
-      "incorrectAnswers": [
-        "Michael J. Fox",
-        "Emilio Estevez",
-        "Corey Feldman"
-      ]
-    },
-    {
-      "question": "In the 1982 film 'E.T. the Extra-Terrestrial', what is the name of the boy who befriends E.T.?",
-      "correctAnswer": "Elliott",
-      "incorrectAnswers": [
-        "Michael",
-        "David",
-        "Henry"
-      ]
-    },
-    {
-      "question": "Which television show, premiering in 1980, featured a helicopter called 'Airwolf'?",
-      "correctAnswer": "Airwolf",
-      "incorrectAnswers": [
-        "Knight Rider",
-        "The A-Team",
-        "Magnum, P.I."
-      ]
-    },
-    {
-      "question": "Which 1984 movie featured a character named Sarah Connor being targeted by a futuristic robot?",
-      "correctAnswer": "The Terminator",
-      "incorrectAnswers": [
-        "Blade Runner",
-        "RoboCop",
-        "The Running Man"
-      ]
-    },
-    {
-      "question": "In the TV series 'M*A*S*H', what was the nickname of character Benjamin Franklin Pierce?",
-      "correctAnswer": "Hawkeye",
-      "incorrectAnswers": [
-        "Trapper",
-        "Hot Lips",
-        "Radar"
-      ]
-    },
-    {
-      "question": "What was the name of the high school in the 1978 movie 'Grease'?",
-      "correctAnswer": "Rydell High",
-      "incorrectAnswers": [
-        "McKinley High",
-        "Shermer High",
-        "Ridgemont High"
+        "E.T. the Extra-Terrestrial"
       ]
     }
   ]

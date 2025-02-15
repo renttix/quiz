@@ -2,88 +2,7 @@
   "category": "Pop Culture",
   "questions": [
     {
-      "question": "Which 1978 film starring John Travolta and Olivia Newton-John became an iconic musical representation of high school life in the 1950s?",
-      "correctAnswer": "Grease",
-      "incorrectAnswers": [
-        "Saturday Night Fever",
-        "Hairspray",
-        "Footloose"
-      ]
-    },
-    {
-      "question": "What was the name of the handheld electronic game, introduced by Nintendo in 1980, that became a huge hit, allowing players to control falling blocks?",
-      "correctAnswer": "Game & Watch",
-      "incorrectAnswers": [
-        "Atari Lynx",
-        "Game Boy",
-        "Sega Game Gear"
-      ]
-    },
-    {
-      "question": "Who was the British Prime Minister throughout most of the 1980s, becoming the longest-serving British prime minister of the 20th century?",
-      "correctAnswer": "Margaret Thatcher",
-      "incorrectAnswers": [
-        "John Major",
-        "Tony Blair",
-        "Winston Churchill"
-      ]
-    },
-    {
-      "question": "Which of the following arcade video games was released first?",
-      "correctAnswer": "Pong",
-      "incorrectAnswers": [
-        "Pac-Man",
-        "Space Invaders",
-        "Donkey Kong"
-      ]
-    },
-    {
-      "question": "Who sang the 1983 hit song 'Flashdance... What a Feeling'?",
-      "correctAnswer": "Irene Cara",
-      "incorrectAnswers": [
-        "Laura Branigan",
-        "Kim Carnes",
-        "Pat Benatar"
-      ]
-    },
-    {
-      "question": "Which character was the leader of the Autobots in the original 1980s 'Transformers' animated series?",
-      "correctAnswer": "Optimus Prime",
-      "incorrectAnswers": [
-        "Megatron",
-        "Bumblebee",
-        "Starscream"
-      ]
-    },
-    {
-      "question": "What was the name of the music device introduced by Sony in 1979 that revolutionized how people listened to music on the go?",
-      "correctAnswer": "Walkman",
-      "incorrectAnswers": [
-        "Discman",
-        "Boombox",
-        "Record Player"
-      ]
-    },
-    {
-      "question": "What was the name of the dance craze that took the world by storm after being featured in Michael Jackson's music video for 'Thriller'?",
-      "correctAnswer": "The Moonwalk",
-      "incorrectAnswers": [
-        "The Robot",
-        "The Electric Slide",
-        "The Hustle"
-      ]
-    },
-    {
-      "question": "Which movie released in 1977 became a cornerstone of science fiction and spawned a massive franchise that includes movies, TV shows, and merchandise?",
-      "correctAnswer": "Star Wars",
-      "incorrectAnswers": [
-        "Close Encounters of the Third Kind",
-        "Alien",
-        "Blade Runner"
-      ]
-    },
-    {
-      "question": "What arcade game, released in 1980, was a pioneer in the maze chase genre, featuring a character that eats dots while avoiding ghosts?",
+      "question": "What was the name of the 1980s arcade game that featured a yellow, dot-eating character being chased by ghosts?",
       "correctAnswer": "Pac-Man",
       "incorrectAnswers": [
         "Space Invaders",
@@ -92,48 +11,129 @@
       ]
     },
     {
-      "question": "Who sang the hit song 'Like a Virgin', which became a global anthem in the mid-1980s?",
-      "correctAnswer": "Madonna",
+      "question": "What was the first video game to feature Mario?",
+      "correctAnswer": "Donkey Kong",
       "incorrectAnswers": [
-        "Cyndi Lauper",
-        "Whitney Houston",
-        "Tina Turner"
+        "Mario Bros.",
+        "Super Mario Bros.",
+        "The Legend of Zelda"
       ]
     },
     {
-      "question": "Which toy line, featuring robots that could transform into vehicles, became a huge hit in the 1980s?",
-      "correctAnswer": "Transformers",
+      "question": "Who won the first season of 'American Idol' in 2002?",
+      "correctAnswer": "Kelly Clarkson",
       "incorrectAnswers": [
-        "GoBots",
-        "Voltron",
-        "M.A.S.K."
+        "Ruben Studdard",
+        "Fantasia Barrino",
+        "Carrie Underwood"
       ]
     },
     {
-      "question": "What was the first 24-hour cable news network, launched in 1980?",
-      "correctAnswer": "CNN",
+      "question": "Which iconic video game featuring a plumber was released by Nintendo in the 1980s?",
+      "correctAnswer": "Super Mario Bros.",
       "incorrectAnswers": [
-        "MTV",
-        "ESPN",
-        "HBO"
+        "Pac-Man",
+        "Donkey Kong",
+        "Space Invaders"
       ]
     },
     {
-      "question": "Which 1980s sitcom featured a family who adopted an alien from the planet Melmac?",
-      "correctAnswer": "ALF",
+      "question": "What was the name of the world-famous dance associated with Michael Jackson in the 1980s?",
+      "correctAnswer": "Moonwalk",
       "incorrectAnswers": [
-        "Small Wonder",
-        "Perfect Strangers",
-        "Mork & Mindy"
+        "Electric Slide",
+        "Running Man",
+        "Cabbage Patch"
       ]
     },
     {
-      "question": "What was the name of the popular toy line featuring small, colorful bears with symbols on their bellies?",
-      "correctAnswer": "Care Bears",
+      "question": "Who was the British princess famously known as 'The People's Princess' in the 1990s?",
+      "correctAnswer": "Princess Diana",
       "incorrectAnswers": [
-        "My Little Pony",
-        "Pound Puppies",
-        "Teddy Ruxpin"
+        "Princess Anne",
+        "Princess Margaret",
+        "Queen Elizabeth II"
+      ]
+    },
+    {
+      "question": "What device, popular in the 2000s, revolutionized the way we listen to music on the go?",
+      "correctAnswer": "iPod",
+      "incorrectAnswers": [
+        "Walkman",
+        "Discman",
+        "MP3 player"
+      ]
+    },
+    {
+      "question": "What was the name of the iconic video game console released by Nintendo in the 1980s that revitalized the video game industry?",
+      "correctAnswer": "Nintendo Entertainment System (NES)",
+      "incorrectAnswers": [
+        "Atari 2600",
+        "Sega Genesis",
+        "Commodore 64"
+      ]
+    },
+    {
+      "question": "What was the name of the first widely successful personal computer introduced in the 1970s, featuring a color display?",
+      "correctAnswer": "Apple II",
+      "incorrectAnswers": [
+        "IBM PC",
+        "Commodore PET",
+        "TRS-80"
+      ]
+    },
+    {
+      "question": "Which social networking site was launched in 2004 for college students?",
+      "correctAnswer": "Facebook",
+      "incorrectAnswers": [
+        "MySpace",
+        "Twitter",
+        "LinkedIn"
+      ]
+    },
+    {
+      "question": "What was the name of the popular instant messaging service launched by AOL in the 1990s?",
+      "correctAnswer": "AIM (AOL Instant Messenger)",
+      "incorrectAnswers": [
+        "MSN Messenger",
+        "ICQ",
+        "Yahoo! Messenger"
+      ]
+    },
+    {
+      "question": "Which toy became a massive craze in the late 1970s, requiring 'adoption papers' to purchase?",
+      "correctAnswer": "Cabbage Patch Kids",
+      "incorrectAnswers": [
+        "Strawberry Shortcake",
+        "Care Bears",
+        "My Little Pony"
+      ]
+    },
+    {
+      "question": "What was the first reality TV show to strand contestants on an island and have them compete for a prize?",
+      "correctAnswer": "Survivor",
+      "incorrectAnswers": [
+        "Big Brother",
+        "The Amazing Race",
+        "Fear Factor"
+      ]
+    },
+    {
+      "question": "Which animated series about a family living in Springfield debuted in 1989?",
+      "correctAnswer": "The Simpsons",
+      "incorrectAnswers": [
+        "Family Guy",
+        "South Park",
+        "King of the Hill"
+      ]
+    },
+    {
+      "question": "What was the name of the popular virtual world game launched in 2003 where players could create avatars and build homes?",
+      "correctAnswer": "Second Life",
+      "incorrectAnswers": [
+        "The Sims Online",
+        "World of Warcraft",
+        "Habbo Hotel"
       ]
     }
   ]

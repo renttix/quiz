@@ -2,138 +2,138 @@
   "category": "World Events",
   "questions": [
     {
-      "question": "In 1979, the United States experienced a major energy crisis partly due to an embargo placed by which oil-producing group?",
-      "correctAnswer": "OPEC",
+      "question": "What was the name of the nuclear power plant that experienced a catastrophic meltdown in 1986, causing widespread environmental and human health problems?",
+      "correctAnswer": "Chernobyl",
       "incorrectAnswers": [
-        "NATO",
-        "The European Union",
-        "The United Nations"
-      ]
-    },
-    {
-      "question": "Which of the following events happened in the field of space exploration in 1981?",
-      "correctAnswer": "First Space Shuttle launch",
-      "incorrectAnswers": [
-        "Apollo 13 mission",
-        "Voyager 1 reaches Saturn",
-        "Founding of SpaceX"
-      ]
-    },
-    {
-      "question": "What was the name of the space shuttle that tragically exploded shortly after takeoff in 1986?",
-      "correctAnswer": "Challenger",
-      "incorrectAnswers": [
-        "Discovery",
-        "Atlantis",
-        "Endeavour"
-      ]
-    },
-    {
-      "question": "In 1979, which nuclear power plant in the United States experienced a partial meltdown, becoming the most significant accident in U.S. commercial nuclear power plant history?",
-      "correctAnswer": "Three Mile Island",
-      "incorrectAnswers": [
-        "Fukushima Daiichi",
-        "Chernobyl",
+        "Fukushima",
+        "Three Mile Island",
         "Kyshtym"
       ]
     },
     {
-      "question": "Which country hosted the 1980 Summer Olympics, which was boycotted by 65 countries, including the United States, in response to its invasion of Afghanistan?",
-      "correctAnswer": "Soviet Union",
+      "question": "In 1997, the world was captivated by the tragic death of Princess Diana. In which city did her fatal car crash occur?",
+      "correctAnswer": "Paris",
       "incorrectAnswers": [
-        "China",
-        "Germany",
-        "Japan"
+        "London",
+        "New York",
+        "Rome"
       ]
     },
     {
-      "question": "Which global health scare, caused by an emerging virus, led to widespread public health campaigns and research initiatives starting in the early 1980s?",
+      "question": "In what year did the first successful cloning of a mammal, Dolly the sheep, occur, sparking ethical debates and scientific curiosity worldwide?",
+      "correctAnswer": "1996",
+      "incorrectAnswers": [
+        "1990",
+        "2000",
+        "1985"
+      ]
+    },
+    {
+      "question": "Which groundbreaking global event occurred on July 20, 1969, captivating audiences around the world?",
+      "correctAnswer": "The Apollo 11 moon landing",
+      "incorrectAnswers": [
+        "The fall of the Berlin Wall",
+        "The start of the Gulf War",
+        "The release of the first Apple computer"
+      ]
+    },
+    {
+      "question": "Which international agreement was signed in 1997 to address climate change by reducing carbon dioxide emissions?",
+      "correctAnswer": "The Kyoto Protocol",
+      "incorrectAnswers": [
+        "The Paris Agreement",
+        "The Treaty of Lisbon",
+        "The Montreal Protocol"
+      ]
+    },
+    {
+      "question": "Who was the first President of Russia, elected in 1991 after the dissolution of the Soviet Union?",
+      "correctAnswer": "Boris Yeltsin",
+      "incorrectAnswers": [
+        "Vladimir Putin",
+        "Mikhail Gorbachev",
+        "Dmitry Medvedev"
+      ]
+    },
+    {
+      "question": "In 1979, which revolution led to the establishment of an Islamic Republic?",
+      "correctAnswer": "Iranian Revolution",
+      "incorrectAnswers": [
+        "Cuban Revolution",
+        "Russian Revolution",
+        "French Revolution"
+      ]
+    },
+    {
+      "question": "Who was released from prison in 1990 after 27 years, becoming a symbol of the fight against apartheid?",
+      "correctAnswer": "Nelson Mandela",
+      "incorrectAnswers": [
+        "Martin Luther King Jr.",
+        "Mahatma Gandhi",
+        "Lech Walesa"
+      ]
+    },
+    {
+      "question": "Which disease became a global health crisis in the 1980s, leading to widespread awareness campaigns?",
       "correctAnswer": "AIDS",
       "incorrectAnswers": [
         "SARS",
         "Ebola",
-        "Zika"
+        "H1N1"
       ]
     },
     {
-      "question": "Which of these global events did NOT occur in the 1970s?",
-      "correctAnswer": "The first Gulf War",
+      "question": "What major political change occurred in Hong Kong in 1997?",
+      "correctAnswer": "Return to Chinese sovereignty",
       "incorrectAnswers": [
-        "The Vietnam War ends",
-        "The Iranian Revolution",
-        "The Apollo 13 mission"
+        "Independence from Britain",
+        "Democratic elections",
+        "Economic collapse"
       ]
     },
     {
-      "question": "In 1981, which country's president was assassinated, leading to a significant impact on its political landscape?",
-      "correctAnswer": "Egypt",
+      "question": "Which war began in 1990 after one country invaded Kuwait?",
+      "correctAnswer": "The Gulf War",
+      "incorrectAnswers": [
+        "The Vietnam War",
+        "The Falklands War",
+        "The Kosovo War"
+      ]
+    },
+    {
+      "question": "What significant space event occurred in 1986?",
+      "correctAnswer": "Challenger Space Shuttle disaster",
+      "incorrectAnswers": [
+        "First Space Station launch",
+        "Mars Pathfinder landing",
+        "Hubble Telescope launch"
+      ]
+    },
+    {
+      "question": "Which country hosted the 2000 Summer Olympics?",
+      "correctAnswer": "Australia",
       "incorrectAnswers": [
         "United States",
-        "France",
-        "India"
+        "Greece",
+        "China"
       ]
     },
     {
-      "question": "Which international treaty, signed in 1987, was aimed at protecting the ozone layer by phasing out the production of numerous substances?",
-      "correctAnswer": "The Montreal Protocol",
+      "question": "What major currency was introduced for electronic transactions in 1999?",
+      "correctAnswer": "Euro",
       "incorrectAnswers": [
-        "The Paris Agreement",
-        "The Kyoto Protocol",
-        "The Stockholm Convention"
+        "Bitcoin",
+        "Yen",
+        "Pound Sterling"
       ]
     },
     {
-      "question": "In 1971, which country was officially admitted to the United Nations after a prolonged exclusion since 1945?",
-      "correctAnswer": "People's Republic of China",
+      "question": "Which technology company faced an antitrust lawsuit in the late 1990s?",
+      "correctAnswer": "Microsoft",
       "incorrectAnswers": [
-        "Republic of China (Taiwan)",
-        "Switzerland",
-        "Israel"
-      ]
-    },
-    {
-      "question": "Which worldwide event in the 1980s was characterized by a series of campaigns including 'Live Aid' to raise awareness and funds for famine relief?",
-      "correctAnswer": "The Ethiopian Famine",
-      "incorrectAnswers": [
-        "The Biafran Famine",
-        "The Somali Famine",
-        "The North Korean Famine"
-      ]
-    },
-    {
-      "question": "What significant political change occurred in Iran in 1979?",
-      "correctAnswer": "The Islamic Revolution",
-      "incorrectAnswers": [
-        "The Shah's Coronation",
-        "Democratic Elections",
-        "Military Coup"
-      ]
-    },
-    {
-      "question": "Which peace agreement between Israel and Egypt was signed in 1978?",
-      "correctAnswer": "Camp David Accords",
-      "incorrectAnswers": [
-        "Oslo Accords",
-        "Madrid Protocol",
-        "Geneva Convention"
-      ]
-    },
-    {
-      "question": "What major technological achievement occurred in space exploration in 1976?",
-      "correctAnswer": "Viking 1 lands on Mars",
-      "incorrectAnswers": [
-        "First Space Station",
-        "First GPS Satellite",
-        "Hubble Telescope Launch"
-      ]
-    },
-    {
-      "question": "Which South American country was ruled by military dictatorship throughout most of the 1970s and 1980s?",
-      "correctAnswer": "Argentina",
-      "incorrectAnswers": [
-        "Brazil",
-        "Chile",
-        "Peru"
+        "Apple",
+        "IBM",
+        "Intel"
       ]
     }
   ]

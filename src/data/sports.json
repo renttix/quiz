@@ -2,52 +2,52 @@
   "category": "Sports",
   "questions": [
     {
-      "question": "Which NFL team won their first Super Bowl in the 1970s, led by the 'Steel Curtain' defense?",
+      "question": "Which NBA player was famously known as 'Air Jordan' during the 80s and 90s?",
+      "correctAnswer": "Michael Jordan",
+      "incorrectAnswers": [
+        "Larry Bird",
+        "Magic Johnson",
+        "Karl Malone"
+      ]
+    },
+    {
+      "question": "In 1999, which female soccer player famously removed her shirt in celebration after scoring the winning penalty in the FIFA Women's World Cup final?",
+      "correctAnswer": "Brandi Chastain",
+      "incorrectAnswers": [
+        "Mia Hamm",
+        "Julie Foudy",
+        "Michelle Akers"
+      ]
+    },
+    {
+      "question": "Who set the single-season home run record in Major League Baseball in 1998 before it was broken again in 2001?",
+      "correctAnswer": "Mark McGwire",
+      "incorrectAnswers": [
+        "Barry Bonds",
+        "Sammy Sosa",
+        "Ken Griffey Jr."
+      ]
+    },
+    {
+      "question": "Which country hosted the 2002 FIFA World Cup, marking the first time the tournament was held in Asia?",
+      "correctAnswer": "Japan and South Korea",
+      "incorrectAnswers": [
+        "China",
+        "Australia",
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "question": "Which NFL team won three Super Bowls in the 1970s, establishing a dynasty era?",
       "correctAnswer": "Pittsburgh Steelers",
       "incorrectAnswers": [
         "Dallas Cowboys",
-        "Miami Dolphins",
-        "Oakland Raiders"
-      ]
-    },
-    {
-      "question": "Who set the MLB record for most hits in a season in the 1980s?",
-      "correctAnswer": "Pete Rose",
-      "incorrectAnswers": [
-        "Ty Cobb",
-        "Ichiro Suzuki",
-        "Derek Jeter"
-      ]
-    },
-    {
-      "question": "Which athlete won the gold medal in the decathlon at the 1976 Summer Olympics, becoming an instant international star?",
-      "correctAnswer": "Bruce Jenner",
-      "incorrectAnswers": [
-        "Daley Thompson",
-        "Bill Toomey",
-        "Rafer Johnson"
-      ]
-    },
-    {
-      "question": "Which NFL team won the Super Bowl in 1985 with a dominant defense, famously known as the '85 Bears?",
-      "correctAnswer": "Chicago Bears",
-      "incorrectAnswers": [
-        "Miami Dolphins",
         "San Francisco 49ers",
-        "Dallas Cowboys"
+        "Miami Dolphins"
       ]
     },
     {
-      "question": "Who set the MLB single-season home run record in 1974, breaking Babe Ruth's long-standing record?",
-      "correctAnswer": "Hank Aaron",
-      "incorrectAnswers": [
-        "Barry Bonds",
-        "Mark McGwire",
-        "Roger Maris"
-      ]
-    },
-    {
-      "question": "Which NBA player was famously known for his skyhook shot, a dominant force in the 1970s and 1980s?",
+      "question": "Who set the record for the most points scored in a single NBA game in 1984?",
       "correctAnswer": "Kareem Abdul-Jabbar",
       "incorrectAnswers": [
         "Michael Jordan",
@@ -56,84 +56,84 @@
       ]
     },
     {
-      "question": "In 1984, who broke the world record for the men's 100 meters at the Summer Olympics?",
-      "correctAnswer": "Carl Lewis",
+      "question": "In the 1990s, which female tennis player won 22 Grand Slam singles titles, becoming one of the most celebrated athletes in the sport?",
+      "correctAnswer": "Steffi Graf",
       "incorrectAnswers": [
-        "Usain Bolt",
-        "Ben Johnson",
-        "Michael Johnson"
+        "Martina Navratilova",
+        "Monica Seles",
+        "Serena Williams"
       ]
     },
     {
-      "question": "Which player was named NBA's Most Valuable Player for the 1984-1985 season?",
-      "correctAnswer": "Larry Bird",
+      "question": "What was the nickname of the 1992 USA Olympic Basketball Team, known for being the first American Olympic team to feature active NBA players?",
+      "correctAnswer": "Dream Team",
       "incorrectAnswers": [
+        "Gold Team",
+        "Star Team",
+        "Hoops Squad"
+      ]
+    },
+    {
+      "question": "Which NFL team won three Super Bowls in the 1990s, establishing a dynasty in American football?",
+      "correctAnswer": "Dallas Cowboys",
+      "incorrectAnswers": [
+        "San Francisco 49ers",
+        "Denver Broncos",
+        "Green Bay Packers"
+      ]
+    },
+    {
+      "question": "Which female tennis player dominated Wimbledon in the late 20th century, winning the singles title nine times between 1976 and 1990?",
+      "correctAnswer": "Martina Navratilova",
+      "incorrectAnswers": [
+        "Steffi Graf",
+        "Chris Evert",
+        "Monica Seles"
+      ]
+    },
+    {
+      "question": "In the early 2000s, which country upset the odds to win the UEFA European Championship in 2004, their first major international trophy?",
+      "correctAnswer": "Greece",
+      "incorrectAnswers": [
+        "Portugal",
+        "Spain",
+        "France"
+      ]
+    },
+    {
+      "question": "Who set the NBA single-season scoring record by averaging 37.1 points per game during the 1986-1987 season?",
+      "correctAnswer": "Michael Jordan",
+      "incorrectAnswers": [
+        "Larry Bird",
         "Magic Johnson",
+        "Kareem Abdul-Jabbar"
+      ]
+    },
+    {
+      "question": "In 1992, the Dream Team represented the United States in Olympic basketball. Which of the following players was NOT a member of that team?",
+      "correctAnswer": "Shaquille O'Neal",
+      "incorrectAnswers": [
         "Michael Jordan",
-        "Moses Malone"
+        "Larry Bird",
+        "Magic Johnson"
       ]
     },
     {
-      "question": "Which tennis player won both Wimbledon and the US Open in 1981?",
-      "correctAnswer": "John McEnroe",
+      "question": "In the 1998 FIFA World Cup final, which country did France defeat to win their first World Cup?",
+      "correctAnswer": "Brazil",
       "incorrectAnswers": [
-        "Bjorn Borg",
-        "Jimmy Connors",
-        "Ivan Lendl"
+        "Italy",
+        "Argentina",
+        "Netherlands"
       ]
     },
     {
-      "question": "Who was the first African American to manage a Major League Baseball team, making history in 1975?",
-      "correctAnswer": "Frank Robinson",
+      "question": "Which boxer became the youngest heavyweight champion in 1986?",
+      "correctAnswer": "Mike Tyson",
       "incorrectAnswers": [
-        "Willie Mays",
-        "Hank Aaron",
-        "Jackie Robinson"
-      ]
-    },
-    {
-      "question": "Which boxer defeated Muhammad Ali in 1978 to become the World Heavyweight Champion?",
-      "correctAnswer": "Leon Spinks",
-      "incorrectAnswers": [
-        "George Foreman",
-        "Joe Frazier",
-        "Ken Norton"
-      ]
-    },
-    {
-      "question": "What team did Wayne Gretzky play for when he set the NHL single-season scoring record in 1981-82?",
-      "correctAnswer": "Edmonton Oilers",
-      "incorrectAnswers": [
-        "Los Angeles Kings",
-        "New York Rangers",
-        "Toronto Maple Leafs"
-      ]
-    },
-    {
-      "question": "Which Formula One driver won his first World Championship in 1976 after a dramatic season-long battle?",
-      "correctAnswer": "James Hunt",
-      "incorrectAnswers": [
-        "Niki Lauda",
-        "Mario Andretti",
-        "Emerson Fittipaldi"
-      ]
-    },
-    {
-      "question": "Who became the youngest player to win Wimbledon in 1985 at the age of 17?",
-      "correctAnswer": "Boris Becker",
-      "incorrectAnswers": [
-        "John McEnroe",
-        "Stefan Edberg",
-        "Ivan Lendl"
-      ]
-    },
-    {
-      "question": "Which team dominated the NBA in the 1980s, winning five championships and earning the nickname 'Showtime'?",
-      "correctAnswer": "Los Angeles Lakers",
-      "incorrectAnswers": [
-        "Boston Celtics",
-        "Philadelphia 76ers",
-        "Detroit Pistons"
+        "Evander Holyfield",
+        "Lennox Lewis",
+        "George Foreman"
       ]
     }
   ]

@@ -2,138 +2,138 @@
   "category": "Fashion & Style",
   "questions": [
     {
-      "question": "Which fashion item became iconic for women's office wear in the 1980s?",
-      "correctAnswer": "Power suits",
+      "question": "What was a defining fashion trend of the 1980s, often seen in music videos and street style alike?",
+      "correctAnswer": "Shoulder pads",
       "incorrectAnswers": [
-        "Mini skirts",
-        "Bell-bottom jeans",
-        "Halter neck tops"
+        "Crop tops",
+        "Flannel shirts",
+        "Low-rise jeans"
       ]
     },
     {
-      "question": "What was a popular accessory for both men and women in the 1970s?",
+      "question": "Which footwear became a major trend in the 1990s, especially among teenagers and young adults?",
       "correctAnswer": "Platform shoes",
       "incorrectAnswers": [
-        "Cuff bracelets",
-        "Bolo ties",
-        "Leg warmers"
+        "Clogs",
+        "Flip-flops",
+        "Ballet flats"
       ]
     },
     {
-      "question": "Which hairstyle was a must-have for men in the 1970s?",
-      "correctAnswer": "The afro",
+      "question": "In the early 2000s, which type of jeans became extremely popular, often worn low on the hips?",
+      "correctAnswer": "Low-rise jeans",
       "incorrectAnswers": [
-        "The mullet",
-        "The buzz cut",
-        "The pompadour"
-      ]
-    },
-    {
-      "question": "What type of jeans became incredibly popular during the 1980s?",
-      "correctAnswer": "Acid-wash jeans",
-      "incorrectAnswers": [
-        "Flared jeans",
         "High-waisted jeans",
-        "Cargo jeans"
+        "Bell-bottom pants",
+        "Cargo pants"
       ]
     },
     {
-      "question": "Which fashion trend was NOT popular in the 1980s?",
-      "correctAnswer": "Hippie outfits",
+      "question": "Which accessory was a staple in 90s fashion, often seen worn by celebrities and in high school hallways?",
+      "correctAnswer": "Choker necklaces",
       "incorrectAnswers": [
-        "Neon colors",
-        "Shoulder pads",
-        "Leg warmers"
+        "Pearl necklaces",
+        "Bolo ties",
+        "Pendant necklaces"
       ]
     },
     {
-      "question": "What iconic jacket style, often associated with Michael Jackson, became immensely popular in the 1980s?",
-      "correctAnswer": "Leather jacket",
+      "question": "In the 1980s, which clothing item was widely popularized by Madonna, influencing women's fashion?",
+      "correctAnswer": "Lace gloves",
       "incorrectAnswers": [
-        "Denim jacket",
-        "Bomber jacket",
-        "Windbreaker"
+        "Leather jackets",
+        "Flannel shirts",
+        "Denim skirts"
       ]
     },
     {
-      "question": "Which hairstyle, featuring voluminous curls and waves, was a defining look for women in the 1980s?",
-      "correctAnswer": "Permed hair",
+      "question": "What was the name of the style characterized by baggy pants, bright colors, and bucket hats, prominent in early '90s hip-hop fashion?",
+      "correctAnswer": "Cross Colours",
+      "incorrectAnswers": [
+        "Punk rock",
+        "Grunge",
+        "Preppy"
+      ]
+    },
+    {
+      "question": "Which footwear brand became synonymous with the grunge movement of the early 1990s?",
+      "correctAnswer": "Dr. Martens",
+      "incorrectAnswers": [
+        "Nike Air Max",
+        "Crocs",
+        "Birkenstocks"
+      ]
+    },
+    {
+      "question": "In the early 2000s, what accessory became a must-have in every teen's wardrobe, as seen on celebrities like Paris Hilton?",
+      "correctAnswer": "Juicy Couture tracksuits",
+      "incorrectAnswers": [
+        "Velvet chokers",
+        "Cargo pants",
+        "Fedoras"
+      ]
+    },
+    {
+      "question": "In the 1980s, which accessory became a symbol of punk rock, often worn by musicians and fans alike?",
+      "correctAnswer": "Leather jackets with pins and patches",
+      "incorrectAnswers": [
+        "Silk scarves",
+        "Beaded necklaces",
+        "Feather boas"
+      ]
+    },
+    {
+      "question": "Which iconic sneaker brand saw a resurgence in the 1990s, becoming a staple of hip hop style and culture?",
+      "correctAnswer": "Air Jordans",
+      "incorrectAnswers": [
+        "Keds",
+        "Puma Suede",
+        "Converse All-Stars"
+      ]
+    },
+    {
+      "question": "What was a popular women's hairstyle in the 1980s known for its volume and height, often achieved through teasing and hairspray?",
+      "correctAnswer": "The Perm",
+      "incorrectAnswers": [
+        "The Pixie Cut",
+        "The Bob",
+        "The Shag"
+      ]
+    },
+    {
+      "question": "In the early 2000s, which of these items was a must-have fashion accessory often paired with low-rise jeans?",
+      "correctAnswer": "A rhinestone-studded belt",
+      "incorrectAnswers": [
+        "A leather fanny pack",
+        "A silk bandana",
+        "A crochet beret"
+      ]
+    },
+    {
+      "question": "Which brand was famously associated with the oversized baggy jeans trend in the 1990s?",
+      "correctAnswer": "JNCO",
+      "incorrectAnswers": [
+        "Levi's",
+        "Tommy Hilfiger",
+        "Calvin Klein"
+      ]
+    },
+    {
+      "question": "In the 2000s, which hairstyle became iconic, especially among celebrities?",
+      "correctAnswer": "The 'Rachel' cut",
       "incorrectAnswers": [
         "Pixie cut",
-        "Bob cut",
-        "Straight and long"
-      ]
-    },
-    {
-      "question": "In the late 1970s, what accessory became synonymous with disco culture, often worn with leisure suits?",
-      "correctAnswer": "Gold chains",
-      "incorrectAnswers": [
-        "Leather bracelets",
-        "Silk scarves",
-        "Beanie hats"
-      ]
-    },
-    {
-      "question": "What item of clothing was essential for the disco dance floors of the late 1970s?",
-      "correctAnswer": "Polyester leisure suit",
-      "incorrectAnswers": [
-        "Denim overalls",
-        "Cargo shorts",
-        "Wool cardigan"
-      ]
-    },
-    {
-      "question": "Which footwear became synonymous with the punk rock scene of the late 1970s and early 1980s?",
-      "correctAnswer": "Doc Martens boots",
-      "incorrectAnswers": [
-        "Adidas sneakers",
-        "Platform shoes",
-        "Flip-flops"
-      ]
-    },
-    {
-      "question": "In the 1980s, which hairstyle became a symbol of rebellion and was popularized by musicians and their fans?",
-      "correctAnswer": "Mohawk",
-      "incorrectAnswers": [
         "Mullets",
-        "Beehives",
-        "Shags"
+        "Bowl cuts"
       ]
     },
     {
-      "question": "Which fashion accessory was essential for any teenager in the 1980s, often featuring bright colors and geometric shapes?",
-      "correctAnswer": "Swatch Watches",
+      "question": "Which of these footwear became an unexpected fashion trend in the 2000s?",
+      "correctAnswer": "Ugg boots",
       "incorrectAnswers": [
-        "Leather Wristbands",
-        "Friendship Bracelets",
-        "Bolo Ties"
-      ]
-    },
-    {
-      "question": "What type of makeup was particularly popular in the 1980s, often applied in bright, bold colors?",
-      "correctAnswer": "Eye shadow",
-      "incorrectAnswers": [
-        "Lip gloss",
-        "Mascara",
-        "Blush"
-      ]
-    },
-    {
-      "question": "Which brand of sneakers became hugely popular in the 1980s after being endorsed by Michael Jordan?",
-      "correctAnswer": "Nike Air Jordan",
-      "incorrectAnswers": [
-        "Adidas Superstar",
-        "Reebok Pump",
-        "Converse All Star"
-      ]
-    },
-    {
-      "question": "What type of shirt became a staple of 1980s fashion, often featuring wild patterns and bright colors?",
-      "correctAnswer": "Hawaiian shirts",
-      "incorrectAnswers": [
-        "Oxford shirts",
-        "Polo shirts",
-        "Turtlenecks"
+        "Jelly sandals",
+        "Doc Martens",
+        "Platform flip-flops"
       ]
     }
   ]

@@ -2,43 +2,106 @@
   "category": "Music",
   "questions": [
     {
-      "question": "What was the first video played on MTV in 1981?",
-      "correctAnswer": "Video Killed the Radio Star by The Buggles",
+      "question": "Which song famously began with the lyrics 'Just a small town girl, living in a lonely world' in the 1980s?",
+      "correctAnswer": "Don't Stop Believin' by Journey",
       "incorrectAnswers": [
-        "Thriller by Michael Jackson",
-        "Money for Nothing by Dire Straits",
-        "Sultans of Swing by Dire Straits"
+        "Living on a Prayer by Bon Jovi",
+        "Sweet Child o' Mine by Guns N' Roses",
+        "Girls Just Want to Have Fun by Cyndi Lauper"
       ]
     },
     {
-      "question": "Which 1985 charity single was recorded by the supergroup USA for Africa?",
-      "correctAnswer": "We Are the World",
+      "question": "Who won the Grammy Award for Album of the Year in 1977 for the album 'Songs in the Key of Life'?",
+      "correctAnswer": "Stevie Wonder",
       "incorrectAnswers": [
-        "Do They Know It's Christmas?",
-        "Band Aid",
-        "Feed the World"
+        "Elton John",
+        "David Bowie",
+        "Paul McCartney"
       ]
     },
     {
-      "question": "Which artist released the album 'Thriller', becoming the best-selling album of all time?",
+      "question": "Which group is credited with popularizing rap music in the 1980s with their hit 'Walk This Way'?",
+      "correctAnswer": "Run-D.M.C.",
+      "incorrectAnswers": [
+        "N.W.A",
+        "Public Enemy",
+        "The Beastie Boys"
+      ]
+    },
+    {
+      "question": "What was the name of Britney Spears' debut single that became a global hit in 1998?",
+      "correctAnswer": "...Baby One More Time",
+      "incorrectAnswers": [
+        "Oops!... I Did It Again",
+        "Toxic",
+        "Womanizer"
+      ]
+    },
+    {
+      "question": "Which band released the influential alternative rock album 'Hybrid Theory' in the year 2000?",
+      "correctAnswer": "Linkin Park",
+      "incorrectAnswers": [
+        "Nirvana",
+        "Green Day",
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "question": "Which song became synonymous with disco fever in the late 1970s?",
+      "correctAnswer": "Stayin' Alive - Bee Gees",
+      "incorrectAnswers": [
+        "Boogie Wonderland - Earth, Wind & Fire",
+        "Super Freak - Rick James",
+        "Funkytown - Lipps Inc"
+      ]
+    },
+    {
+      "question": "Which artist famously moonwalked across the stage during a performance of 'Billie Jean' in the 1980s?",
       "correctAnswer": "Michael Jackson",
       "incorrectAnswers": [
         "Prince",
         "Madonna",
-        "Bruce Springsteen"
+        "David Bowie"
       ]
     },
     {
-      "question": "Who is known as the Queen of Disco?",
-      "correctAnswer": "Donna Summer",
+      "question": "What was the name of Nirvana's groundbreaking album in 1991 that became a symbol of the grunge movement?",
+      "correctAnswer": "Nevermind",
       "incorrectAnswers": [
-        "Diana Ross",
-        "Gloria Gaynor",
-        "Cher"
+        "In Utero",
+        "Bleach",
+        "Ten"
       ]
     },
     {
-      "question": "What was the name of Madonna's first UK number one single?",
+      "question": "Which 1990s group was known for their hit song 'Wannabe', catapulting them to global fame?",
+      "correctAnswer": "Spice Girls",
+      "incorrectAnswers": [
+        "Destiny's Child",
+        "TLC",
+        "The Pussycat Dolls"
+      ]
+    },
+    {
+      "question": "Which song, released in 2000, became an anthem for a new generation and won a Grammy for Record of the Year?",
+      "correctAnswer": "Beautiful Day - U2",
+      "incorrectAnswers": [
+        "Say My Name - Destiny's Child",
+        "Oops!... I Did It Again - Britney Spears",
+        "Yellow - Coldplay"
+      ]
+    },
+    {
+      "question": "Which song by Queen became a global anthem and is known for its distinctive music video in the 1970s?",
+      "correctAnswer": "Bohemian Rhapsody",
+      "incorrectAnswers": [
+        "We Will Rock You",
+        "Somebody to Love",
+        "Don't Stop Me Now"
+      ]
+    },
+    {
+      "question": "What was the name of Madonna's first UK number one single in the 1980s?",
       "correctAnswer": "Into the Groove",
       "incorrectAnswers": [
         "Like a Virgin",
@@ -47,93 +110,30 @@
       ]
     },
     {
-      "question": "Which song did Queen perform at Live Aid in 1985?",
-      "correctAnswer": "Bohemian Rhapsody",
+      "question": "Who won the Grammy for Best New Artist in 2000?",
+      "correctAnswer": "Christina Aguilera",
       "incorrectAnswers": [
-        "We Will Rock You",
-        "Somebody to Love",
-        "Radio Ga Ga"
+        "Britney Spears",
+        "Nelly Furtado",
+        "Pink"
       ]
     },
     {
-      "question": "Who sang 'Every Breath You Take' in 1983?",
-      "correctAnswer": "The Police",
+      "question": "What was the name of the iPod's first competitor, released by Creative Labs in 2000?",
+      "correctAnswer": "NOMAD Jukebox",
       "incorrectAnswers": [
-        "U2",
-        "The Cure",
-        "Dire Straits"
+        "Zune",
+        "Walkman",
+        "Sansa"
       ]
     },
     {
-      "question": "Which artist is known for the hit song 'Billie Jean' released in 1982?",
-      "correctAnswer": "Michael Jackson",
+      "question": "Which hip-hop group released 'Straight Outta Compton' in 1988?",
+      "correctAnswer": "N.W.A",
       "incorrectAnswers": [
-        "Prince",
-        "Lionel Richie",
-        "Rick James"
-      ]
-    },
-    {
-      "question": "What band released the influential album 'Rumours' in 1977?",
-      "correctAnswer": "Fleetwood Mac",
-      "incorrectAnswers": [
-        "Eagles",
-        "Led Zeppelin",
-        "Pink Floyd"
-      ]
-    },
-    {
-      "question": "Who sang the 1980 hit 'Call Me'?",
-      "correctAnswer": "Blondie",
-      "incorrectAnswers": [
-        "Pat Benatar",
-        "Cyndi Lauper",
-        "Madonna"
-      ]
-    },
-    {
-      "question": "Which of these songs was NOT a hit for Queen in the 1970s?",
-      "correctAnswer": "Radio Ga Ga",
-      "incorrectAnswers": [
-        "Bohemian Rhapsody",
-        "We Will Rock You",
-        "Somebody to Love"
-      ]
-    },
-    {
-      "question": "Which group is credited with the song 'Stayin' Alive' from the Saturday Night Fever soundtrack?",
-      "correctAnswer": "Bee Gees",
-      "incorrectAnswers": [
-        "ABBA",
-        "The Village People",
-        "Earth, Wind & Fire"
-      ]
-    },
-    {
-      "question": "Which band released 'Another Brick in the Wall, Part 2' in 1979?",
-      "correctAnswer": "Pink Floyd",
-      "incorrectAnswers": [
-        "Led Zeppelin",
-        "The Who",
-        "Queen"
-      ]
-    },
-    {
-      "question": "Who was the lead singer of the band Blondie?",
-      "correctAnswer": "Debbie Harry",
-      "incorrectAnswers": [
-        "Stevie Nicks",
-        "Joan Jett",
-        "Patti Smith"
-      ]
-    },
-    {
-      "question": "Who sang 'Purple Rain'?",
-      "correctAnswer": "Prince",
-      "incorrectAnswers": [
-        "Michael Jackson",
-        "David Bowie",
-        "Bruce Springsteen"
+        "Public Enemy",
+        "Beastie Boys",
+        "Run-DMC"
       ]
     }
   ]
