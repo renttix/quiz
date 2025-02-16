@@ -1,12 +1,18 @@
 import { io } from 'socket.io-client';
 
-const SOCKET_URL = process.env.NEXT_PUBLIC_SOCKET_URL || 'http://localhost:3000';
+// Get the deployment URL from environment variable
+const SOCKET_URL = process.env.NEXT_PUBLIC_SOCKET_URL;
+
+if (!SOCKET_URL) {
+  console.error('NEXT_PUBLIC_SOCKET_URL environment variable is not set');
+}
 
 let socket: any = null;
 
 export const getSocket = () => {
   if (!socket) {
-    socket = io(SOCKET_URL, {
+    // Use the deployment URL directly
+    socket = io('https://quiz-zeta-rose.vercel.app', {
       path: '/api/socket',
       addTrailingSlash: false,
       transports: ['polling'],
