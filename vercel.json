@@ -7,6 +7,13 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "mongodb+srv://renttixsoftware:UvMXMZTRVSSQhyс9@cluster0.ch27f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "MONGODB_URI": "@mongodb_uri"
+  },
+  "regions": ["iad1"],
+  "functions": {
+    "api/socket": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
   }
 }
