@@ -1,7 +1,7 @@
 import { Server as SocketIOServer } from 'socket.io';
-import { Server as NetServer } from 'http';
-import { NextApiRequest } from 'next';
 import mongoose from 'mongoose';
+import { NextApiResponse } from 'next';
+import { NextResponse } from 'next/server';
 
 // Track active quizzes and participants
 const activeQuizzes = new Map();
@@ -24,12 +24,16 @@ const connectDB = async () => {
   }
 };
 
-const SocketHandler = async (req: NextApiRequest, res: any) => {
-  if (!res.socket.server.io) {
+// Store the Socket.IO server instance
+let io: SocketIOServer;
+
+const SocketHandler = async (req: Request, res: NextApiResponse) => {
+  if (!io) {
     await connectDB();
-    
-    const httpServer: NetServer = res.socket.server;
-    const io = new SocketIOServer(httpServer, {
+
+    // @ts-ignore - res.socket is available but not typed
+    const server = res.socket.server;
+    io = new SocketIOServer(server, {
       path: '/api/socket',
       addTrailingSlash: false,
       cors: {
@@ -182,10 +186,11 @@ const SocketHandler = async (req: NextApiRequest, res: any) => {
       });
     });
 
-    res.socket.server.io = io;
+    // @ts-ignore - server.io is available but not typed
+    server.io = io;
   }
 
-  res.end();
+  return NextResponse.json({ success: true });
 };
 
 export { SocketHandler as GET, SocketHandler as POST };
