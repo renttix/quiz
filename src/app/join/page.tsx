@@ -12,6 +12,15 @@ interface Question {
   options: string[];
 }
 
+interface LeaderboardEntry {
+  name: string;
+  score: number;
+}
+
+interface SocketError {
+  message: string;
+}
+
 export default function JoinQuiz() {
   const searchParams = useSearchParams();
   const participantName = searchParams.get('name');
@@ -24,14 +33,14 @@ export default function JoinQuiz() {
   const [timeLeft, setTimeLeft] = useState<number>(15);
   const [hasAnswered, setHasAnswered] = useState(false);
   const [quizEnded, setQuizEnded] = useState(false);
-  const [leaderboard, setLeaderboard] = useState<Array<{ name: string; score: number }>>([]);
+  const [leaderboard, setLeaderboard] = useState<LeaderboardEntry[]>([]);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const socketInit = async () => {
       try {
         await fetch('/api/socket');
-        const socketInstance = getSocket(false); // false for participant
+        const socketInstance = getSocket();
         setSocket(socketInstance);
 
         // Generate participant ID immediately
@@ -64,7 +73,7 @@ export default function JoinQuiz() {
           setError(null);
         });
 
-        socketInstance.on('quiz:ended', (finalLeaderboard) => {
+        socketInstance.on('quiz:ended', (finalLeaderboard: LeaderboardEntry[]) => {
           setQuizEnded(true);
           setLeaderboard(finalLeaderboard);
           setError(null);
@@ -75,12 +84,12 @@ export default function JoinQuiz() {
           setError('No active quiz found. Please wait for a quiz to start.');
         });
 
-        socketInstance.on('connect_error', (error) => {
+        socketInstance.on('connect_error', (error: SocketError) => {
           console.error('Socket connection error:', error);
           setError('Connection error. Please try again.');
         });
 
-        socketInstance.on('disconnect', (reason) => {
+        socketInstance.on('disconnect', (reason: string) => {
           console.log('Disconnected from socket server:', reason);
           if (reason === 'io server disconnect') {
             // Reconnect if server disconnected
