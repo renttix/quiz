@@ -35,6 +35,7 @@ async function handler(req: NextRequest, res: any) {
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type',
+        'Access-Control-Allow-Credentials': 'true',
       },
     });
   }
@@ -58,6 +59,7 @@ async function handler(req: NextRequest, res: any) {
         allowUpgrades: false,
         pingTimeout: 10000,
         pingInterval: 5000,
+        cookie: false,
       });
 
       // Socket connection handling with error management
@@ -211,6 +213,9 @@ async function handler(req: NextRequest, res: any) {
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type',
+        'Access-Control-Allow-Credentials': 'true',
+        'Cache-Control': 'no-store, no-cache, must-revalidate, proxy-revalidate',
+        'Connection': 'keep-alive',
       },
     });
   } catch (error) {
