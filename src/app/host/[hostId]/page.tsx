@@ -29,6 +29,19 @@ interface QuizSession {
   participants: Participant[];
 }
 
+interface ParticipantJoinedData {
+  participantId: string;
+  name: string;
+  id: string;
+  score: number;
+}
+
+interface AnswerReceivedData {
+  participantId: string;
+  answer: string;
+  isCorrect: boolean;
+}
+
 export default function HostDashboard() {
   const { hostId } = useParams();
   const [socket, setSocket] = useState<Socket | null>(null);
@@ -72,7 +85,7 @@ export default function HostDashboard() {
 
     const initSocket = async () => {
       await fetch('/api/socket');
-      const socketInstance = getSocket(true); // true for host
+      const socketInstance = getSocket();
       setSocket(socketInstance);
 
       socketInstance.on('connect', () => {
@@ -80,7 +93,7 @@ export default function HostDashboard() {
         socketInstance.emit('host:join', hostId);
       });
 
-      socketInstance.on('participant:joined', (data) => {
+      socketInstance.on('participant:joined', (data: ParticipantJoinedData) => {
         console.log('Participant joined:', data);
         setSession((prev) => {
           if (!prev) return prev;
@@ -91,7 +104,7 @@ export default function HostDashboard() {
         });
       });
 
-      socketInstance.on('answer:received', (data) => {
+      socketInstance.on('answer:received', (data: AnswerReceivedData) => {
         console.log('Answer received:', data);
         setQuestionStats(prev => ({
           totalAnswers: prev.totalAnswers + 1,
