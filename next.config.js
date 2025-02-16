@@ -21,6 +21,14 @@ const nextConfig = {
             key: 'Access-Control-Allow-Credentials',
             value: 'true',
           },
+          {
+            key: 'Cache-Control',
+            value: 'no-store, no-cache, must-revalidate, proxy-revalidate',
+          },
+          {
+            key: 'Connection',
+            value: 'keep-alive',
+          },
         ],
       },
     ];
@@ -31,6 +39,9 @@ const nextConfig = {
       'bufferutil': 'commonjs bufferutil',
     });
     return config;
+  },
+  experimental: {
+    serverComponentsExternalPackages: ['socket.io', 'socket.io-client'],
   },
 };
 
