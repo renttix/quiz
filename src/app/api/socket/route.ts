@@ -31,8 +31,9 @@ async function handler(req: NextRequest) {
     if (!io) {
       await connectDB();
 
-      // @ts-ignore - server is available but not typed
-      const server = req.socket.server;
+      // @ts-ignore - Next.js server instance is available but not typed
+      const server = (req as any).socket.server;
+
       io = new SocketIOServer(server, {
         path: '/api/socket',
         addTrailingSlash: false,
@@ -40,6 +41,7 @@ async function handler(req: NextRequest) {
           origin: '*',
           methods: ['GET', 'POST'],
         },
+        transports: ['websocket', 'polling'],
         pingTimeout: 60000,
         connectTimeout: 60000,
       });
