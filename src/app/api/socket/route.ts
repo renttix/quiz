@@ -27,6 +27,16 @@ const connectDB = async () => {
 let io: SocketIOServer;
 
 async function handler(req: NextRequest) {
+  if (req.method === 'OPTIONS') {
+    return new Response('OK', {
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+      },
+    });
+  }
+
   try {
     if (!io) {
       await connectDB();
@@ -40,10 +50,14 @@ async function handler(req: NextRequest) {
         cors: {
           origin: '*',
           methods: ['GET', 'POST'],
+          credentials: true,
         },
-        transports: ['websocket', 'polling'],
+        transports: ['polling'],
+        allowUpgrades: true,
         pingTimeout: 60000,
+        pingInterval: 25000,
         connectTimeout: 60000,
+        perMessageDeflate: false,
       });
 
       // Socket connection handling with error management
@@ -192,7 +206,13 @@ async function handler(req: NextRequest) {
       server.io = io;
     }
 
-    return new Response('Socket is running');
+    return new Response('Socket is running', {
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+      },
+    });
   } catch (error) {
     console.error('Socket error:', error);
     return new Response('Internal Server Error', { status: 500 });
