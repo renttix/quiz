@@ -9,6 +9,9 @@ export const getSocket = () => {
     socket = io(SOCKET_URL, {
       path: '/api/socket',
       addTrailingSlash: false,
+      transports: ['websocket', 'polling'],
+      reconnectionAttempts: 5,
+      reconnectionDelay: 1000,
     });
   }
   return socket;
