@@ -7,11 +7,10 @@ import mongoose from 'mongoose';
 const activeQuizzes = new Map();
 const participants = new Map();
 
-export const config = {
-  api: {
-    bodyParser: false,
-  },
-};
+// New route segment config format
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
+export const bodyParser = false;
 
 // MongoDB connection with proper error handling
 const connectDB = async () => {
@@ -190,4 +189,4 @@ const SocketHandler = async (req: NextApiRequest, res: any) => {
   res.end();
 };
 
-export default SocketHandler;
+export { SocketHandler as GET, SocketHandler as POST };
