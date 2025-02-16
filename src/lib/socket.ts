@@ -4,9 +4,11 @@ let socket: Socket | null = null;
 
 export const getSocket = () => {
   if (!socket) {
+    // Always use the deployment URL
     const socketUrl = 'https://quiz-zeta-rose.vercel.app';
     console.log('Initializing socket connection to:', socketUrl);
 
+    // Create socket instance with specific configuration
     socket = io(socketUrl, {
       path: '/api/socket',
       addTrailingSlash: false,
@@ -15,8 +17,13 @@ export const getSocket = () => {
       reconnectionDelay: 1000,
       timeout: 10000,
       forceNew: true,
-      autoConnect: true,
+      autoConnect: false, // Don't connect automatically
       withCredentials: true,
+      extraHeaders: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET,POST,OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+      },
     });
 
     // Handle connection events
@@ -62,12 +69,12 @@ export const getSocket = () => {
     });
 
     // Handle engine errors
-    socket.io.engine.on('error', (err: string | Error) => {
+    socket.io.engine?.on('error', (err: string | Error) => {
       const errorMessage = typeof err === 'string' ? err : err.message;
       console.error('Engine error:', errorMessage);
     });
 
-    // Initial connection attempt
+    // Now manually connect
     socket.connect();
   }
 
@@ -82,6 +89,5 @@ export const disconnectSocket = () => {
   }
 };
 
-// Create and export a singleton instance
-const socketInstance = getSocket();
-export default socketInstance;
+// Don't create a singleton instance, let components create their own
+export default getSocket;
