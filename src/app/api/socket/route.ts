@@ -10,7 +10,6 @@ const participants = new Map();
 // New route segment config format
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
-export const bodyParser = false;
 
 // MongoDB connection with proper error handling
 const connectDB = async () => {
