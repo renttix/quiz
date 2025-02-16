@@ -9,12 +9,12 @@ export const getSocket = () => {
     socket = io(SOCKET_URL, {
       path: '/api/socket',
       addTrailingSlash: false,
-      transports: ['polling'], // Start with polling only
-      upgrade: true, // Allow upgrading to WebSocket
-      rememberUpgrade: true,
+      transports: ['polling'],
       reconnectionAttempts: 5,
       reconnectionDelay: 1000,
-      timeout: 20000,
+      timeout: 10000,
+      forceNew: true,
+      autoConnect: true,
     });
 
     // Handle connection events
@@ -24,13 +24,22 @@ export const getSocket = () => {
 
     socket.on('connect_error', (error: any) => {
       console.error('Socket connection error:', error);
+      // Try to reconnect
+      socket.connect();
     });
 
     socket.on('disconnect', (reason: string) => {
       console.log('Socket disconnected:', reason);
-      if (reason === 'io server disconnect') {
-        socket.connect(); // Reconnect if server disconnected
+      if (reason === 'io server disconnect' || reason === 'transport close') {
+        // Try to reconnect if server disconnected
+        socket.connect();
       }
+    });
+
+    socket.on('error', (error: any) => {
+      console.error('Socket error:', error);
+      // Try to reconnect on error
+      socket.connect();
     });
   }
   return socket;
