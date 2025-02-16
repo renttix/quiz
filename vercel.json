@@ -2,64 +2,30 @@
   "version": 2,
   "builds": [
     {
-      "src": "package.json",
-      "use": "@vercel/next"
+      "src": "server.js",
+      "use": "@vercel/node"
     }
   ],
   "env": {
     "MONGODB_URI": "mongodb+srv://renttixsoftware:UvMXMZTRVSSQhyс9@cluster0.ch27f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "NEXT_PUBLIC_SOCKET_URL": "https://quiz-zeta-rose.vercel.app"
   },
-  "regions": ["iad1"],
-  "functions": {
-    "api/socket": {
-      "memory": 1024,
-      "maxDuration": 300
-    }
-  },
-  "headers": [
-    {
-      "source": "/api/socket",
-      "headers": [
-        {
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        },
-        {
-          "key": "Access-Control-Allow-Methods",
-          "value": "GET,POST,OPTIONS"
-        },
-        {
-          "key": "Access-Control-Allow-Headers",
-          "value": "Content-Type"
-        },
-        {
-          "key": "Access-Control-Allow-Credentials",
-          "value": "true"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "no-store, no-cache, must-revalidate, proxy-revalidate"
-        },
-        {
-          "key": "Connection",
-          "value": "keep-alive"
-        }
-      ]
-    }
-  ],
   "routes": [
     {
       "src": "/api/socket",
+      "dest": "server.js",
       "headers": {
-        "Connection": "keep-alive",
-        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Methods": "GET,POST,OPTIONS",
         "Access-Control-Allow-Headers": "Content-Type",
-        "Access-Control-Allow-Credentials": "true"
-      },
-      "continue": true
+        "Access-Control-Allow-Credentials": "true",
+        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        "Connection": "keep-alive"
+      }
+    },
+    {
+      "src": "/(.*)",
+      "dest": "server.js"
     }
   ]
 }
