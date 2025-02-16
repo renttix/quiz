@@ -7,7 +7,8 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "@mongodb_uri"
+    "MONGODB_URI": "mongodb+srv://renttixsoftware:UvMXMZTRVSSQhyс9@cluster0.ch27f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "NEXT_PUBLIC_SOCKET_URL": "https://quiz-zeta-rose.vercel.app"
   },
   "regions": ["iad1"],
   "functions": {
