@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { Socket } from 'socket.io-client';
 import { getSocket, disconnectSocket } from '@/lib/socket';
@@ -21,7 +21,7 @@ interface SocketError {
   message: string;
 }
 
-export default function JoinQuiz() {
+function JoinQuizContent() {
   const searchParams = useSearchParams();
   const participantName = searchParams.get('name');
   
@@ -227,5 +227,13 @@ export default function JoinQuiz() {
         )}
       </div>
     </div>
+  );
+}
+
+export default function JoinQuiz() {
+  return (
+    <Suspense fallback={<div className="text-center">Loading...</div>}>
+      <JoinQuizContent />
+    </Suspense>
   );
 }
