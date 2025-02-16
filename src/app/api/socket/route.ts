@@ -1,6 +1,8 @@
 import { Server as SocketIOServer } from 'socket.io';
 import mongoose from 'mongoose';
 import { NextRequest } from 'next/server';
+import { Server as NetServer } from 'http';
+import { NextApiResponse } from 'next';
 
 // Track active quizzes and participants
 const activeQuizzes = new Map();
@@ -26,7 +28,7 @@ const connectDB = async () => {
 // Store the Socket.IO server instance
 let io: SocketIOServer;
 
-async function handler(req: NextRequest) {
+async function handler(req: NextRequest, res: any) {
   if (req.method === 'OPTIONS') {
     return new Response('OK', {
       headers: {
@@ -42,9 +44,9 @@ async function handler(req: NextRequest) {
       await connectDB();
 
       // @ts-ignore - Next.js server instance is available but not typed
-      const server = (req as any).socket.server;
+      const httpServer: NetServer = res.socket.server;
 
-      io = new SocketIOServer(server, {
+      io = new SocketIOServer(httpServer, {
         path: '/api/socket',
         addTrailingSlash: false,
         cors: {
@@ -53,11 +55,9 @@ async function handler(req: NextRequest) {
           credentials: true,
         },
         transports: ['polling'],
-        allowUpgrades: true,
-        pingTimeout: 60000,
-        pingInterval: 25000,
-        connectTimeout: 60000,
-        perMessageDeflate: false,
+        allowUpgrades: false,
+        pingTimeout: 10000,
+        pingInterval: 5000,
       });
 
       // Socket connection handling with error management
@@ -203,7 +203,7 @@ async function handler(req: NextRequest) {
       });
 
       // @ts-ignore - server.io is available but not typed
-      server.io = io;
+      res.socket.server.io = io;
     }
 
     return new Response('Socket is running', {
