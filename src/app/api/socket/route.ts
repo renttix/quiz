@@ -11,6 +11,7 @@ const participants = new Map();
 // New route segment config format
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
+export const maxDuration = 300;
 
 // MongoDB connection with proper error handling
 const connectDB = async () => {
@@ -60,6 +61,7 @@ async function handler(req: NextRequest, res: any) {
         pingTimeout: 10000,
         pingInterval: 5000,
         cookie: false,
+        connectTimeout: 10000,
       });
 
       // Socket connection handling with error management
