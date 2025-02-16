@@ -32,8 +32,30 @@
         {
           "key": "Access-Control-Allow-Headers",
           "value": "Content-Type"
+        },
+        {
+          "key": "Access-Control-Allow-Credentials",
+          "value": "true"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-store, no-cache, must-revalidate, proxy-revalidate"
+        },
+        {
+          "key": "Connection",
+          "value": "keep-alive"
         }
       ]
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/socket",
+      "headers": {
+        "Connection": "keep-alive",
+        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate"
+      },
+      "continue": true
     }
   ]
 }
